@@ -1,0 +1,39 @@
+
+name: Update White/Bypass subscription
+
+on:
+  schedule:
+    - cron: '17 * * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          persist-credentials: true
+
+      - name: Test filter
+        run: python3 -m unittest discover -s tests -v
+
+      - name: Update filtered subscription
+        run: python3 filter.py
+
+      - name: Commit changes (only when needed)
+        shell: bash
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add subscriptions/white-bypass.txt
+          if git diff --cached --quiet; then
+            echo "No changes to subscription"
+          else
+            git commit -m "chore: update filtered rjsxrd subscription"
+            git push
+          fi
