@@ -1,39 +1,37 @@
-
 name: Update White/Bypass subscription
 
 on:
   schedule:
-    - cron: '17 * * * *'
+    - cron: '17 * * * *' # approx once/hour (may be delayed by GitHub)
   workflow_dispatch:
 
 permissions:
   contents: write
 
+concurrency:
+  group: white-list-update
+  cancel-in-progress: false
+
 jobs:
   update:
     runs-on: ubuntu-latest
-    timeout-minutes: 10
+    timeout-minutes: 15
     steps:
       - name: Checkout repository
         uses: actions/checkout@v5
-        with:
-          persist-credentials: true
-
-      - name: Test filter
+      - name: Test filters and health-check safeguards
         run: python3 -m unittest discover -s tests -v
-
-      - name: Update filtered subscription
-        run: python3 filter.py
-
-      - name: Commit changes (only when needed)
+      - name: Fetch, filter, check TCP endpoints, publish
+        run: python3 filter.py --ping-mode tcp --timeout 2.5 --attempts 2 --workers 12
+      - name: Commit validated subscription and status report
         shell: bash
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add subscriptions/white-bypass.txt
+          git add subscriptions/white-bypass.txt subscriptions/health-report.json
           if git diff --cached --quiet; then
-            echo "No changes to subscription"
+            echo "No changes"
           else
-            git commit -m "chore: update filtered rjsxrd subscription"
+            git commit -m "chore: update healthy white-list proxies"
             git push
           fi
