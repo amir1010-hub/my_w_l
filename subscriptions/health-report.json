@@ -1,224 +1,314 @@
 {
-  "checked_at_utc": "2026-10-15T07:26:12+00:00",
+  "checked_at_utc": "2026-10-15T13:25:57+00:00",
   "source": "https://raw.githubusercontent.com/whoahaow/rjsxrd/main/githubmirror/bypass/bypass-all.txt",
   "probe": "TCP connect",
-  "upstream_links": 829,
-  "ok": 76,
-  "failed": 0,
+  "upstream_links": 741,
+  "ok": 83,
+  "failed": 3,
   "unsupported": 0,
   "unsafe": 0,
-  "input": 76,
-  "published": 76,
+  "input": 86,
+  "published": 83,
   "entries": [
     {
-      "name": "AetrisVPN White list ┃ ✅ SNI: dismissaltree.net ┃ 🇷🇺 Россия t.me/rjsxrd",
+      "name": "🇷🇺Обходы - TG: AirLinkVPNBot |0006| t.me/rjsxrd",
       "protocol": "vless",
       "status": "ok",
-      "tcp_ms": 180.2
+      "tcp_ms": 152.6
     },
     {
-      "name": "AetrisVPN White list ┃ ✅ SNI: summerculture.net ┃ 🇳🇱 Нидерланды t.me/rjsxrd",
+      "name": "🇷🇺Обходы - TG: AirLinkVPNBot |0007| t.me/rjsxrd",
       "protocol": "vless",
       "status": "ok",
-      "tcp_ms": 154.7
+      "tcp_ms": 1164.6
     },
     {
-      "name": "🇷🇺Обходы - TG: AirLinkVPNBot |0011| t.me/rjsxrd",
+      "name": "AetrisVPN White list ┃ ✅ SNI: www.intel.com ┃ 🇩🇪 Германия t.me/rjsxrd",
       "protocol": "vless",
       "status": "ok",
-      "tcp_ms": 162.4
+      "tcp_ms": 123.2
     },
     {
-      "name": "🇷🇺 Russia | БЕЛЫЙ IP | @RaViraNet t.me/rjsxrd",
+      "name": "AetrisVPN White list ┃ ✅ SNI: dismissaltree.net ┃ 🇺🇸 США t.me/rjsxrd",
       "protocol": "vless",
       "status": "ok",
-      "tcp_ms": 252.0
+      "tcp_ms": 1160.8
     },
     {
-      "name": "🇷🇺 Russia | БЕЛЫЙ IP | @RaViraNet t.me/rjsxrd",
+      "name": "AetrisVPN White list ┃ ✅ SNI: www.yandex.ru ┃ 🇷🇺 Россия t.me/rjsxrd",
       "protocol": "vless",
       "status": "ok",
-      "tcp_ms": 1259.1
+      "tcp_ms": 195.3
     },
     {
-      "name": "AetrisVPN White list ┃ ✅ SNI: dismissaltree.net ┃ 🇷🇺 Россия t.me/rjsxrd",
+      "name": "🇷🇺Обходы - TG: AirLinkVPNBot |0018| t.me/rjsxrd",
       "protocol": "vless",
       "status": "ok",
-      "tcp_ms": 172.0
-    },
-    {
-      "name": "🇷🇺Обходы - TG: AirLinkVPNBot |0049| t.me/rjsxrd",
-      "protocol": "vless",
-      "status": "ok",
-      "tcp_ms": 160.4
-    },
-    {
-      "name": "AetrisVPN White list ┃ ✅ SNI: summerculture.net ┃ 🇷🇺 Россия t.me/rjsxrd",
-      "protocol": "vless",
-      "status": "ok",
-      "tcp_ms": 171.5
-    },
-    {
-      "name": "🇷🇺Обходы - TG: AirLinkVPNBot |0023| t.me/rjsxrd",
-      "protocol": "vless",
-      "status": "ok",
-      "tcp_ms": 166.8
+      "tcp_ms": 1163.1
     },
     {
       "name": "AetrisVPN White list ┃ ✅ SNI: dismissaltree.net ┃ 🇷🇺 Россия t.me/rjsxrd",
       "protocol": "vless",
       "status": "ok",
-      "tcp_ms": 185.6
-    },
-    {
-      "name": "AetrisVPN White list ┃ ✅ SNI: metrika.yandex.ru ┃ 🇫🇷 Франция t.me/rjsxrd",
-      "protocol": "vless",
-      "status": "ok",
-      "tcp_ms": 125.2
+      "tcp_ms": 154.2
     },
     {
       "name": "AetrisVPN White list ┃ ✅ SNI: yandex.ru ┃ 🇷🇺 Россия t.me/rjsxrd",
       "protocol": "vless",
       "status": "ok",
-      "tcp_ms": 156.4
+      "tcp_ms": 150.5
     },
     {
-      "name": "AetrisVPN White list ┃ ✅ SNI: yandex.ru ┃ 🇩🇪 Германия t.me/rjsxrd",
+      "name": "AetrisVPN White list ┃ ✅ SNI: metrika.yandex.ru ┃ 🇪🇸 Испания t.me/rjsxrd",
       "protocol": "vless",
       "status": "ok",
-      "tcp_ms": 160.9
+      "tcp_ms": 127.1
     },
     {
-      "name": "🇷🇺Обходы - TG: AirLinkVPNBot |0050| t.me/rjsxrd",
+      "name": "AetrisVPN White list ┃ ✅ SNI: vedomosti.ru ┃ 🇳🇱 Нидерланды t.me/rjsxrd",
       "protocol": "vless",
       "status": "ok",
-      "tcp_ms": 150.6
+      "tcp_ms": 114.2
     },
     {
-      "name": "🇷🇺 Russia | БЕЛЫЙ IP | @RaViraNet t.me/rjsxrd",
-      "protocol": "vless",
-      "status": "ok",
-      "tcp_ms": 223.4
-    },
-    {
-      "name": "🇷🇺 Russia | БЕЛЫЙ IP | @RaViraNet t.me/rjsxrd",
-      "protocol": "vless",
-      "status": "ok",
-      "tcp_ms": 189.4
-    },
-    {
-      "name": "🇷🇺Обходы - TG: AirLinkVPNBot |0051| t.me/rjsxrd",
-      "protocol": "vless",
-      "status": "ok",
-      "tcp_ms": 242.0
-    },
-    {
-      "name": "🇷🇺Обходы - TG: AirLinkVPNBot |0042| t.me/rjsxrd",
-      "protocol": "vless",
-      "status": "ok",
-      "tcp_ms": 148.4
-    },
-    {
-      "name": "🇷🇺 Russia | БЕЛЫЙ IP | @RaViraNet t.me/rjsxrd",
-      "protocol": "vless",
-      "status": "ok",
-      "tcp_ms": 265.6
-    },
-    {
-      "name": "🇷🇺 Russia | БЕЛЫЙ IP | @RaViraNet t.me/rjsxrd",
-      "protocol": "vless",
-      "status": "ok",
-      "tcp_ms": 179.6
-    },
-    {
-      "name": "AetrisVPN White list ┃ ✅ SNI: metrika.yandex.ru ┃ 🇫🇮 Финляндия t.me/rjsxrd",
-      "protocol": "vless",
-      "status": "ok",
-      "tcp_ms": 117.7
-    },
-    {
-      "name": "🇷🇺Обходы - TG: AirLinkVPNBot |0019| t.me/rjsxrd",
-      "protocol": "vless",
-      "status": "ok",
-      "tcp_ms": 157.9
-    },
-    {
-      "name": "🇷🇺Обходы - TG: AirLinkVPNBot |0004| t.me/rjsxrd",
-      "protocol": "vless",
-      "status": "ok",
-      "tcp_ms": 153.1
-    },
-    {
-      "name": "🇷🇺Обходы - TG: AirLinkVPNBot |0043| t.me/rjsxrd",
-      "protocol": "vless",
-      "status": "ok",
-      "tcp_ms": 157.5
-    },
-    {
-      "name": "🇷🇺Обходы - TG: AirLinkVPNBot |0016| t.me/rjsxrd",
-      "protocol": "vless",
-      "status": "ok",
-      "tcp_ms": 165.4
-    },
-    {
-      "name": "AetrisVPN White list ┃ ✅ SNI: summerculture.net ┃ 🇧🇬 Болгария t.me/rjsxrd",
-      "protocol": "vless",
-      "status": "ok",
-      "tcp_ms": 152.7
-    },
-    {
-      "name": "AetrisVPN White list ┃ ✅ SNI: summerculture.net ┃ 🇧🇬 Болгария t.me/rjsxrd",
-      "protocol": "vless",
-      "status": "ok",
-      "tcp_ms": 146.3
-    },
-    {
-      "name": "AetrisVPN White list ┃ ✅ SNI: metrika.yandex.ru ┃ 🇱🇹 Литва t.me/rjsxrd",
-      "protocol": "vless",
-      "status": "ok",
-      "tcp_ms": 148.5
-    },
-    {
-      "name": "AetrisVPN White list ┃ ✅ SNI: metrika.yandex.ru ┃ 🇱🇹 Литва t.me/rjsxrd",
-      "protocol": "vless",
-      "status": "ok",
-      "tcp_ms": 146.6
-    },
-    {
-      "name": "🇷🇺Обходы - TG: AirLinkVPNBot |0012| t.me/rjsxrd",
-      "protocol": "vless",
-      "status": "ok",
-      "tcp_ms": 157.2
-    },
-    {
-      "name": "🇷🇺 Russia | БЕЛЫЙ IP | @RaViraNet t.me/rjsxrd",
-      "protocol": "vless",
-      "status": "ok",
-      "tcp_ms": 166.3
-    },
-    {
-      "name": "🇷🇺Обходы - TG: AirLinkVPNBot |0005| t.me/rjsxrd",
+      "name": "AetrisVPN White list ┃ ✅ SNI: id.vk.com ┃ 🇩🇪 Германия t.me/rjsxrd",
       "protocol": "vless",
       "status": "ok",
       "tcp_ms": 164.1
     },
     {
+      "name": "🇷🇺Обходы - TG: AirLinkVPNBot |0032| t.me/rjsxrd",
+      "protocol": "vless",
+      "status": "ok",
+      "tcp_ms": 147.2
+    },
+    {
+      "name": "AetrisVPN White list ┃ ✅ SNI: id.vk.com ┃ 🇩🇪 Германия t.me/rjsxrd",
+      "protocol": "vless",
+      "status": "ok",
+      "tcp_ms": 163.2
+    },
+    {
+      "name": "AetrisVPN White list ┃ ✅ SNI: metrika.yandex.ru ┃ 🇪🇸 Испания t.me/rjsxrd",
+      "protocol": "vless",
+      "status": "ok",
+      "tcp_ms": 127.4
+    },
+    {
+      "name": "AetrisVPN White list ┃ ✅ SNI: metrika.yandex.ru ┃ 🇪🇸 Испания t.me/rjsxrd",
+      "protocol": "vless",
+      "status": "ok",
+      "tcp_ms": 125.8
+    },
+    {
+      "name": "🇷🇺 Russia | БЕЛЫЙ IP | @RaViraNet t.me/rjsxrd",
+      "protocol": "vless",
+      "status": "ok",
+      "tcp_ms": 188.5
+    },
+    {
+      "name": "🇷🇺 Russia | БЕЛЫЙ IP | @RaViraNet t.me/rjsxrd",
+      "protocol": "vless",
+      "status": "ok",
+      "tcp_ms": 177.2
+    },
+    {
+      "name": "🇷🇺Обходы - TG: AirLinkVPNBot |0036| t.me/rjsxrd",
+      "protocol": "vless",
+      "status": "ok",
+      "tcp_ms": 151.0
+    },
+    {
+      "name": "AetrisVPN White list ┃ ✅ SNI: metrika.yandex.ru ┃ 🇪🇸 Испания t.me/rjsxrd",
+      "protocol": "vless",
+      "status": "ok",
+      "tcp_ms": 126.2
+    },
+    {
+      "name": "AetrisVPN White list ┃ ✅ SNI: yandex.ru ┃ 🇩🇪 Германия t.me/rjsxrd",
+      "protocol": "vless",
+      "status": "ok",
+      "tcp_ms": 147.8
+    },
+    {
+      "name": "AetrisVPN White list ┃ ✅ SNI: id.vk.com ┃ 🇩🇪 Германия t.me/rjsxrd",
+      "protocol": "vless",
+      "status": "ok",
+      "tcp_ms": 161.5
+    },
+    {
+      "name": "AetrisVPN White list ┃ ✅ SNI: dismissaltree.net ┃ 🇷🇺 Россия t.me/rjsxrd",
+      "protocol": "vless",
+      "status": "ok",
+      "tcp_ms": 156.1
+    },
+    {
+      "name": "AetrisVPN White list ┃ ✅ SNI: id.vk.com ┃ 🇩🇪 Германия t.me/rjsxrd",
+      "protocol": "vless",
+      "status": "ok",
+      "tcp_ms": 191.5
+    },
+    {
+      "name": "AetrisVPN White list ┃ ✅ SNI: dismissaltree.net ┃ 🇷🇺 Россия t.me/rjsxrd",
+      "protocol": "vless",
+      "status": "ok",
+      "tcp_ms": 149.2
+    },
+    {
+      "name": "🇷🇺Обходы - TG: AirLinkVPNBot |0017| t.me/rjsxrd",
+      "protocol": "vless",
+      "status": "ok",
+      "tcp_ms": 152.7
+    },
+    {
+      "name": "🇷🇺Обходы - TG: AirLinkVPNBot |0019| t.me/rjsxrd",
+      "protocol": "vless",
+      "status": "ok",
+      "tcp_ms": 2255.5
+    },
+    {
       "name": "AetrisVPN White list ┃ ✅ SNI: summerculture.net ┃ 🇷🇺 Россия t.me/rjsxrd",
       "protocol": "vless",
       "status": "ok",
-      "tcp_ms": 172.1
+      "tcp_ms": 159.3
     },
     {
-      "name": "AetrisVPN White list ┃ ✅ SNI: summerculture.net ┃ 🇧🇬 Болгария t.me/rjsxrd",
+      "name": "AetrisVPN White list ┃ ✅ SNI: dismissaltree.net ┃ 🇷🇺 Россия t.me/rjsxrd",
       "protocol": "vless",
       "status": "ok",
-      "tcp_ms": 162.5
+      "tcp_ms": 151.9
     },
     {
-      "name": "🇷🇺Обходы - TG: AirLinkVPNBot |0047| t.me/rjsxrd",
+      "name": "🇷🇺Обходы - TG: AirLinkVPNBot |0012| t.me/rjsxrd",
+      "protocol": "vless",
+      "status": "ok",
+      "tcp_ms": 153.9
+    },
+    {
+      "name": "AetrisVPN White list ┃ ✅ SNI: summerculture.net ┃ 🇷🇺 Россия t.me/rjsxrd",
+      "protocol": "vless",
+      "status": "ok",
+      "tcp_ms": 155.7
+    },
+    {
+      "name": "🇷🇺Обходы - TG: AirLinkVPNBot |0040| t.me/rjsxrd",
+      "protocol": "vless",
+      "status": "ok",
+      "tcp_ms": 153.8
+    },
+    {
+      "name": "🇷🇺Обходы - TG: AirLinkVPNBot |0011| t.me/rjsxrd",
+      "protocol": "vless",
+      "status": "ok",
+      "tcp_ms": 151.6
+    },
+    {
+      "name": "AetrisVPN White list ┃ ✅ SNI: summerculture.net ┃ 🇷🇺 Россия t.me/rjsxrd",
+      "protocol": "vless",
+      "status": "ok",
+      "tcp_ms": 150.4
+    },
+    {
+      "name": "🇷🇺Обходы - TG: AirLinkVPNBot |0024| t.me/rjsxrd",
+      "protocol": "vless",
+      "status": "ok",
+      "tcp_ms": 154.4
+    },
+    {
+      "name": "🇷🇺 Russia | БЕЛЫЙ IP | @RaViraNet t.me/rjsxrd",
+      "protocol": "vless",
+      "status": "ok",
+      "tcp_ms": 176.1
+    },
+    {
+      "name": "AetrisVPN White list ┃ ✅ SNI: metrika.yandex.ru ┃ 🇪🇸 Испания t.me/rjsxrd",
+      "protocol": "vless",
+      "status": "ok",
+      "tcp_ms": 126.5
+    },
+    {
+      "name": "AetrisVPN White list ┃ ✅ SNI: video.yandex.ru ┃ 🇺🇸 США t.me/rjsxrd",
+      "protocol": "vless",
+      "status": "failed",
+      "tcp_ms": null
+    },
+    {
+      "name": "AetrisVPN White list ┃ ✅ SNI: summerculture.net ┃ 🇩🇪 Германия t.me/rjsxrd",
+      "protocol": "vless",
+      "status": "ok",
+      "tcp_ms": 148.3
+    },
+    {
+      "name": "🇷🇺Обходы - TG: AirLinkVPNBot |0034| t.me/rjsxrd",
+      "protocol": "vless",
+      "status": "ok",
+      "tcp_ms": 156.9
+    },
+    {
+      "name": "🇷🇺 Russia | БЕЛЫЙ IP | @RaViraNet t.me/rjsxrd",
+      "protocol": "vless",
+      "status": "ok",
+      "tcp_ms": 179.0
+    },
+    {
+      "name": "🇷🇺Обходы - TG: AirLinkVPNBot |0041| t.me/rjsxrd",
+      "protocol": "vless",
+      "status": "ok",
+      "tcp_ms": 1196.4
+    },
+    {
+      "name": "AetrisVPN White list ┃ ✅ SNI: www.apple.com ┃ 🇬🇧 Великобритания t.me/rjsxrd",
       "protocol": "vless",
       "status": "ok",
       "tcp_ms": 155.2
+    },
+    {
+      "name": "🇷🇺Обходы - TG: AirLinkVPNBot |0010| t.me/rjsxrd",
+      "protocol": "vless",
+      "status": "ok",
+      "tcp_ms": 1197.2
+    },
+    {
+      "name": "AetrisVPN White list ┃ ✅ SNI: www.apple.com ┃ 🇬🇧 Великобритания t.me/rjsxrd",
+      "protocol": "vless",
+      "status": "ok",
+      "tcp_ms": 182.8
+    },
+    {
+      "name": "AetrisVPN White list ┃ ✅ SNI: id.vk.com ┃ 🇩🇪 Германия t.me/rjsxrd",
+      "protocol": "vless",
+      "status": "ok",
+      "tcp_ms": 150.1
+    },
+    {
+      "name": "🇷🇺 Russia | БЕЛЫЙ IP | @RaViraNet t.me/rjsxrd",
+      "protocol": "vless",
+      "status": "ok",
+      "tcp_ms": 1265.7
+    },
+    {
+      "name": "🇷🇺 Russia | БЕЛЫЙ IP | @RaViraNet t.me/rjsxrd",
+      "protocol": "vless",
+      "status": "ok",
+      "tcp_ms": 221.9
+    },
+    {
+      "name": "🇷🇺 Russia | БЕЛЫЙ IP | @RaViraNet t.me/rjsxrd",
+      "protocol": "vless",
+      "status": "ok",
+      "tcp_ms": 168.0
+    },
+    {
+      "name": "🇷🇺 Russia | БЕЛЫЙ IP | @RaViraNet t.me/rjsxrd",
+      "protocol": "vless",
+      "status": "ok",
+      "tcp_ms": 181.2
+    },
+    {
+      "name": "🇷🇺 Russia | БЕЛЫЙ IP | @RaViraNet t.me/rjsxrd",
+      "protocol": "vless",
+      "status": "ok",
+      "tcp_ms": 226.1
     },
     {
       "name": "🇷🇺 Russia | БЕЛЫЙ IP | @RaViraNet t.me/rjsxrd",
@@ -227,244 +317,214 @@
       "tcp_ms": 199.2
     },
     {
-      "name": "🇷🇺 Russia | БЕЛЫЙ IP | @RaViraNet t.me/rjsxrd",
+      "name": "AetrisVPN White list ┃ ✅ SNI: www.intel.com ┃ 🇩🇪 Германия t.me/rjsxrd",
       "protocol": "vless",
       "status": "ok",
-      "tcp_ms": 190.4
+      "tcp_ms": 244.8
     },
     {
-      "name": "🇷🇺Обходы - TG: AirLinkVPNBot |0045| t.me/rjsxrd",
+      "name": "🇷🇺Обходы - TG: AirLinkVPNBot |0014| t.me/rjsxrd",
       "protocol": "vless",
       "status": "ok",
-      "tcp_ms": 152.6
+      "tcp_ms": 161.3
     },
     {
-      "name": "AetrisVPN White list ┃ ✅ SNI: summerculture.net ┃ 🇧🇬 Болгария t.me/rjsxrd",
+      "name": "🇷🇺Обходы - TG: AirLinkVPNBot |0043| t.me/rjsxrd",
       "protocol": "vless",
       "status": "ok",
-      "tcp_ms": 154.5
-    },
-    {
-      "name": "🇷🇺 Russia | БЕЛЫЙ IP | @RaViraNet t.me/rjsxrd",
-      "protocol": "vless",
-      "status": "ok",
-      "tcp_ms": 219.4
+      "tcp_ms": 155.0
     },
     {
       "name": "🇷🇺 Russia | БЕЛЫЙ IP | @RaViraNet t.me/rjsxrd",
       "protocol": "vless",
       "status": "ok",
-      "tcp_ms": 167.1
+      "tcp_ms": 216.8
     },
     {
-      "name": "AetrisVPN White list ┃ ✅ SNI: dismissaltree.net ┃ 🇷🇺 Россия t.me/rjsxrd",
+      "name": "🇷🇺Обходы - TG: AirLinkVPNBot |0020| t.me/rjsxrd",
       "protocol": "vless",
       "status": "ok",
-      "tcp_ms": 155.6
+      "tcp_ms": 164.4
     },
     {
-      "name": "🇷🇺Обходы - TG: AirLinkVPNBot |0017| t.me/rjsxrd",
+      "name": "🇷🇺Обходы - TG: AirLinkVPNBot |0044| t.me/rjsxrd",
       "protocol": "vless",
       "status": "ok",
-      "tcp_ms": 152.4
+      "tcp_ms": 154.6
     },
     {
       "name": "🇷🇺 Russia | БЕЛЫЙ IP | @RaViraNet t.me/rjsxrd",
-      "protocol": "vless",
-      "status": "ok",
-      "tcp_ms": 1169.4
-    },
-    {
-      "name": "AetrisVPN White list ┃ ✅ SNI: dismissaltree.net ┃ 🇷🇺 Россия t.me/rjsxrd",
-      "protocol": "vless",
-      "status": "ok",
-      "tcp_ms": 148.6
-    },
-    {
-      "name": "🇷🇺 Russia | БЕЛЫЙ IP | @RaViraNet t.me/rjsxrd",
-      "protocol": "vless",
-      "status": "ok",
-      "tcp_ms": 224.7
-    },
-    {
-      "name": "AetrisVPN White list ┃ ✅ SNI: summerculture.net ┃ 🇷🇺 Россия t.me/rjsxrd",
-      "protocol": "vless",
-      "status": "ok",
-      "tcp_ms": 151.1
-    },
-    {
-      "name": "🇷🇺 Russia | БЕЛЫЙ IP | @RaViraNet t.me/rjsxrd",
-      "protocol": "vless",
-      "status": "ok",
-      "tcp_ms": 218.2
-    },
-    {
-      "name": "🇷🇺Обходы - TG: AirLinkVPNBot |0041| t.me/rjsxrd",
-      "protocol": "vless",
-      "status": "ok",
-      "tcp_ms": 155.7
-    },
-    {
-      "name": "AetrisVPN White list ┃ ✅ SNI: dismissaltree.net ┃ 🇺🇸 США t.me/rjsxrd",
-      "protocol": "vless",
-      "status": "ok",
-      "tcp_ms": 151.4
-    },
-    {
-      "name": "🇷🇺 Russia | БЕЛЫЙ IP | @RaViraNet t.me/rjsxrd",
-      "protocol": "vless",
-      "status": "ok",
-      "tcp_ms": 1200.9
-    },
-    {
-      "name": "🇷🇺 Russia | БЕЛЫЙ IP | @RaViraNet t.me/rjsxrd",
-      "protocol": "vless",
-      "status": "ok",
-      "tcp_ms": 200.4
-    },
-    {
-      "name": "🇷🇺 Russia | БЕЛЫЙ IP | @RaViraNet t.me/rjsxrd",
-      "protocol": "vless",
-      "status": "ok",
-      "tcp_ms": 251.7
-    },
-    {
-      "name": "🇷🇺Обходы - TG: AirLinkVPNBot |0036| t.me/rjsxrd",
-      "protocol": "vless",
-      "status": "ok",
-      "tcp_ms": 163.9
-    },
-    {
-      "name": "🇷🇺 Russia | БЕЛЫЙ IP | @RaViraNet t.me/rjsxrd",
-      "protocol": "vless",
-      "status": "ok",
-      "tcp_ms": 274.3
-    },
-    {
-      "name": "AetrisVPN White list ┃ ✅ SNI: metrika.yandex.ru ┃ 🇫🇮 Финляндия t.me/rjsxrd",
-      "protocol": "vless",
-      "status": "ok",
-      "tcp_ms": 186.1
-    },
-    {
-      "name": "🇷🇺 Russia | БЕЛЫЙ IP | @RaViraNet t.me/rjsxrd",
-      "protocol": "vless",
-      "status": "ok",
-      "tcp_ms": 195.9
-    },
-    {
-      "name": "🇷🇺Обходы - TG: AirLinkVPNBot |0046| t.me/rjsxrd",
-      "protocol": "vless",
-      "status": "ok",
-      "tcp_ms": 163.9
-    },
-    {
-      "name": "🇷🇺 Russia | БЕЛЫЙ IP | @RaViraNet t.me/rjsxrd",
-      "protocol": "vless",
-      "status": "ok",
-      "tcp_ms": 1179.1
-    },
-    {
-      "name": "🇷🇺 Russia | БЕЛЫЙ IP | @RaViraNet t.me/rjsxrd",
-      "protocol": "vless",
-      "status": "ok",
-      "tcp_ms": 182.6
-    },
-    {
-      "name": "🇷🇺 Russia | БЕЛЫЙ IP | @RaViraNet t.me/rjsxrd",
-      "protocol": "vless",
-      "status": "ok",
-      "tcp_ms": 1163.5
-    },
-    {
-      "name": "🇷🇺 Russia | БЕЛЫЙ IP | @RaViraNet t.me/rjsxrd",
-      "protocol": "vless",
-      "status": "ok",
-      "tcp_ms": 1164.5
-    },
-    {
-      "name": "AetrisVPN White list ┃ ✅ SNI: dismissaltree.net ┃ 🇷🇺 Россия t.me/rjsxrd",
-      "protocol": "vless",
-      "status": "ok",
-      "tcp_ms": 172.4
-    },
-    {
-      "name": "AetrisVPN White list ┃ ✅ SNI: dismissaltree.net ┃ 🇺🇸 США t.me/rjsxrd",
-      "protocol": "vless",
-      "status": "ok",
-      "tcp_ms": 162.6
-    },
-    {
-      "name": "AetrisVPN White list ┃ ✅ SNI: metrika.yandex.ru ┃ 🇪🇸 Испания t.me/rjsxrd",
-      "protocol": "vless",
-      "status": "ok",
-      "tcp_ms": 177.1
-    },
-    {
-      "name": "🇷🇺Обходы - TG: AirLinkVPNBot |0032| t.me/rjsxrd",
-      "protocol": "vless",
-      "status": "ok",
-      "tcp_ms": 160.0
-    },
-    {
-      "name": "🇷🇺 Russia | БЕЛЫЙ IP | @RaViraNet t.me/rjsxrd",
-      "protocol": "vless",
-      "status": "ok",
-      "tcp_ms": 1191.8
-    },
-    {
-      "name": "🇷🇺Обходы - TG: AirLinkVPNBot |0006| t.me/rjsxrd",
-      "protocol": "vless",
-      "status": "ok",
-      "tcp_ms": 156.7
-    },
-    {
-      "name": "🇷🇺 Russia | БЕЛЫЙ IP | @RaViraNet t.me/rjsxrd",
-      "protocol": "vless",
-      "status": "ok",
-      "tcp_ms": 1181.8
-    },
-    {
-      "name": "AetrisVPN White list ┃ ✅ SNI: summerculture.net ┃ 🇩🇪 Германия t.me/rjsxrd",
       "protocol": "vless",
       "status": "ok",
       "tcp_ms": 165.3
     },
     {
-      "name": "🇷🇺 Russia | БЕЛЫЙ IP | @RaViraNet t.me/rjsxrd",
+      "name": "🇷🇺Обходы - TG: AirLinkVPNBot |0048| t.me/rjsxrd",
       "protocol": "vless",
       "status": "ok",
-      "tcp_ms": 207.0
+      "tcp_ms": 156.0
+    },
+    {
+      "name": "🇷🇺Обходы - TG: AirLinkVPNBot |0004| t.me/rjsxrd",
+      "protocol": "vless",
+      "status": "ok",
+      "tcp_ms": 154.9
+    },
+    {
+      "name": "AetrisVPN White list ┃ ✅ SNI: ads.x5.ru ┃ 🇧🇾 Беларусь t.me/rjsxrd",
+      "protocol": "vless",
+      "status": "ok",
+      "tcp_ms": 138.4
+    },
+    {
+      "name": "AetrisVPN White list ┃ ✅ SNI: dismissaltree.net ┃ 🇷🇺 Россия t.me/rjsxrd",
+      "protocol": "vless",
+      "status": "ok",
+      "tcp_ms": 158.6
+    },
+    {
+      "name": "🇷🇺Обходы - TG: AirLinkVPNBot |0016| t.me/rjsxrd",
+      "protocol": "vless",
+      "status": "ok",
+      "tcp_ms": 155.7
     },
     {
       "name": "🇷🇺 Russia | БЕЛЫЙ IP | @RaViraNet t.me/rjsxrd",
       "protocol": "vless",
       "status": "ok",
-      "tcp_ms": 186.8
-    },
-    {
-      "name": "🇷🇺Обходы - TG: AirLinkVPNBot |0040| t.me/rjsxrd",
-      "protocol": "vless",
-      "status": "ok",
-      "tcp_ms": 153.6
+      "tcp_ms": 167.9
     },
     {
       "name": "🇷🇺 Russia | БЕЛЫЙ IP | @RaViraNet t.me/rjsxrd",
       "protocol": "vless",
       "status": "ok",
-      "tcp_ms": 1160.0
+      "tcp_ms": 2263.1
     },
     {
-      "name": "🇷🇺Обходы - TG: AirLinkVPNBot |0018| t.me/rjsxrd",
+      "name": "AetrisVPN White list ┃ ✅ SNI: www.icloud.com ┃ 🇨🇭 Швейцария t.me/rjsxrd",
       "protocol": "vless",
-      "status": "ok",
-      "tcp_ms": 155.5
+      "status": "failed",
+      "tcp_ms": null
     },
     {
-      "name": "🇷🇺Обходы - TG: AirLinkVPNBot |0034| t.me/rjsxrd",
+      "name": "🇷🇺Обходы - TG: AirLinkVPNBot |0008| t.me/rjsxrd",
       "protocol": "vless",
       "status": "ok",
-      "tcp_ms": 253.5
+      "tcp_ms": 159.2
+    },
+    {
+      "name": "🇷🇺 Russia | БЕЛЫЙ IP | @RaViraNet t.me/rjsxrd",
+      "protocol": "vless",
+      "status": "ok",
+      "tcp_ms": 166.8
+    },
+    {
+      "name": "🇷🇺Обходы - TG: AirLinkVPNBot |0050| t.me/rjsxrd",
+      "protocol": "vless",
+      "status": "ok",
+      "tcp_ms": 150.3
+    },
+    {
+      "name": "🇷🇺 Russia | БЕЛЫЙ IP | @RaViraNet t.me/rjsxrd",
+      "protocol": "vless",
+      "status": "ok",
+      "tcp_ms": 166.6
+    },
+    {
+      "name": "🇷🇺 Russia | БЕЛЫЙ IP | @RaViraNet t.me/rjsxrd",
+      "protocol": "vless",
+      "status": "ok",
+      "tcp_ms": 1293.3
+    },
+    {
+      "name": "🇷🇺 Russia | БЕЛЫЙ IP | @RaViraNet t.me/rjsxrd",
+      "protocol": "vless",
+      "status": "ok",
+      "tcp_ms": 310.8
+    },
+    {
+      "name": "AetrisVPN White list ┃ ✅ SNI: metrika.yandex.ru ┃ 🇫🇷 Франция t.me/rjsxrd",
+      "protocol": "vless",
+      "status": "ok",
+      "tcp_ms": 119.6
+    },
+    {
+      "name": "AetrisVPN White list ┃ ✅ SNI: id.vk.com ┃ 🇫🇮 Финляндия t.me/rjsxrd",
+      "protocol": "vless",
+      "status": "ok",
+      "tcp_ms": 151.9
+    },
+    {
+      "name": "AetrisVPN White list ┃ ✅ SNI: summerculture.net ┃ 🇪🇺 Anycast t.me/rjsxrd",
+      "protocol": "vless",
+      "status": "ok",
+      "tcp_ms": 154.4
+    },
+    {
+      "name": "AetrisVPN White list ┃ ✅ SNI: cdn.tbank.ru ┃ 🇩🇪 Германия t.me/rjsxrd",
+      "protocol": "vless",
+      "status": "ok",
+      "tcp_ms": 225.7
+    },
+    {
+      "name": "AetrisVPN White list ┃ ✅ SNI: id.vk.com ┃ 🇫🇮 Финляндия t.me/rjsxrd",
+      "protocol": "vless",
+      "status": "ok",
+      "tcp_ms": 206.7
+    },
+    {
+      "name": "AetrisVPN White list ┃ ✅ SNI: id.vk.com ┃ 🇺🇸 США t.me/rjsxrd",
+      "protocol": "vless",
+      "status": "ok",
+      "tcp_ms": 163.4
+    },
+    {
+      "name": "AetrisVPN White list ┃ ✅ SNI: www.icloud.com ┃ 🇩🇪 Германия t.me/rjsxrd",
+      "protocol": "vless",
+      "status": "ok",
+      "tcp_ms": 168.6
+    },
+    {
+      "name": "AetrisVPN White list ┃ ✅ SNI: www.intel.com ┃ 🇩🇪 Германия t.me/rjsxrd",
+      "protocol": "vless",
+      "status": "ok",
+      "tcp_ms": 218.0
+    },
+    {
+      "name": "AetrisVPN White list ┃ ✅ SNI: summerculture.net ┃ 🇳🇱 Нидерланды t.me/rjsxrd",
+      "protocol": "vless",
+      "status": "ok",
+      "tcp_ms": 172.2
+    },
+    {
+      "name": "AetrisVPN White list ┃ ✅ SNI: www.intel.com ┃ 🇩🇪 Германия t.me/rjsxrd",
+      "protocol": "vless",
+      "status": "ok",
+      "tcp_ms": 216.9
+    },
+    {
+      "name": "AetrisVPN White list ┃ ✅ SNI: id.vk.com ┃ 🇩🇪 Германия t.me/rjsxrd",
+      "protocol": "vless",
+      "status": "ok",
+      "tcp_ms": 162.3
+    },
+    {
+      "name": "AetrisVPN White list ┃ ✅ SNI: 5post-gate.x5.ru ┃ 🇷🇺 Россия t.me/rjsxrd",
+      "protocol": "vless",
+      "status": "ok",
+      "tcp_ms": 175.8
+    },
+    {
+      "name": "AetrisVPN White list ┃ ✅ SNI: dl.google.com ┃ 🇬🇧 Великобритания t.me/rjsxrd",
+      "protocol": "vless",
+      "status": "failed",
+      "tcp_ms": null
+    },
+    {
+      "name": "AetrisVPN White list ┃ ✅ SNI: amd.com ┃ 🇩🇪 Германия t.me/rjsxrd",
+      "protocol": "vless",
+      "status": "ok",
+      "tcp_ms": 114.8
     }
   ]
 }
