@@ -31,9 +31,9 @@ SCHEMES = ("vless://", "vmess://", "trojan://", "ss://", "ssr://", "hy2://", "hy
 # Supported examples: white, white list, whitelist, bypass, allowlist,
 # обход, обходной, белые, белых, белый, вайтлист, разблокировка.
 NAME_PATTERN = re.compile(
-    r"\b(?:"
+ #   r"\b(?:"
 #    r"white(?:[\s._-]*lists?)?"
-    r"|aetrisvpn"
+ #   r"|aetrisvpn"
 #    r"|bypass"
 #    r"|allow[\s._-]*lists?"
 #    r"|обход\w*"
@@ -42,7 +42,9 @@ NAME_PATTERN = re.compile(
  #   r"|разблок\w*"
   #  r"|вайт\w*"
   #  r"|бел(?:ый|ые|ых|ого|ому|ым|ыми|ая|ой|ую|ое|ом)"
-    r")\b",
+  #  r")\b",
+    r"\baetrisvpn[\s._-]+white[\s._-]+list\b",
+
     re.IGNORECASE | re.UNICODE,
 )
 
