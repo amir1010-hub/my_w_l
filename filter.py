@@ -30,6 +30,7 @@ SCHEMES = ("vless://", "vmess://", "trojan://", "ss://", "ssr://", "hy2://", "hy
 # Edit this expression to adjust selection. It is applied ONLY to proxy names.
 # Supported examples: white, white list, whitelist, bypass, allowlist,
 # обход, обходной, белые, белых, белый, вайтлист, разблокировка.
+"""
 NAME_PATTERN = re.compile(
     r"\b(?:"
     r"white(?:[\s._-]*lists?)?"
@@ -44,7 +45,11 @@ NAME_PATTERN = re.compile(
     r")\b",
     re.IGNORECASE | re.UNICODE,
 )
-
+"""
+NAME_PATTERN = re.compile(
+    r"\baetrisvpn[\s._-]+white[\s._-]+list\b",
+    re.IGNORECASE | re.UNICODE,
+)
 
 def vmess_name(line: str) -> str:
     """Extract vmess ps from base64-encoded JSON, if provided."""
