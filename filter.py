@@ -85,12 +85,36 @@ def filter_links(text: str) -> tuple[list[str], int]:
     return selected, total
 
 
+
 def fetch(url: str) -> str:
-    req = Request(url, headers={"User-Agent": "rjsxrd-white-filter/1.0", "Accept": "text/plain"})
+    req = Request(
+        url,
+        headers={
+            "User-Agent": "rjsxrd-white-filter/1.0",
+            "Accept": "text/plain"
+        }
+    )
     last_error = None
+
     for attempt in range(3):
         try:
             with urlopen(req, timeout=30) as response:
+                data = response.read(8_000_001)
+                if len(data) > 8_000_000:
+                    raise ValueError("Input is bigger than 8 MB")
+
+                text = data.decode("utf-8-sig")
+                if not text.strip():
+                    raise ValueError("Source is empty")
+                return text
+
+        except (OSError, UnicodeError, ValueError) as exc:
+            last_error = exc
+            if attempt < 2:
+                time.sleep(2 * (attempt + 1))
+
+    raise RuntimeError(f"Failed to fetch source: {last_error}")
+
                 data = response.read(8_000_001)
                 if len(data) > 8_000_000:
                     raise ValueError("Input is bigger than 8 MB")
