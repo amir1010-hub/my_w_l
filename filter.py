@@ -33,6 +33,7 @@ SCHEMES = ("vless://", "vmess://", "trojan://", "ss://", "ssr://", "hy2://", "hy
 NAME_PATTERN = re.compile(
     r"\b(?:"
     r"white(?:[\s._-]*lists?)?"
+    r"|aetrisvpn"
     r"|bypass"
     r"|allow[\s._-]*lists?"
     r"|обход\w*"
