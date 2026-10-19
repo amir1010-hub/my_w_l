@@ -1,1694 +1,398 @@
 {
-  "checked_at_utc": "2026-10-19T09:16:47+00:00",
+  "checked_at_utc": "2026-10-19T13:58:38+00:00",
   "source": "https://raw.githubusercontent.com/whoahaow/rjsxrd/main/githubmirror/bypass/bypass-all.txt",
   "probe": "TCP connect",
-  "upstream_links": 1386,
-  "ok": 216,
-  "failed": 60,
-  "unsupported": 4,
+  "upstream_links": 1057,
+  "ok": 64,
+  "failed": 0,
+  "unsupported": 0,
   "unsafe": 0,
-  "input": 280,
-  "published": 220,
+  "input": 64,
+  "published": 64,
   "entries": [
     {
-      "name": "🇷🇺Обходы - TG: AirLinkVPNBot |0042| t.me/rjsxrd",
-      "protocol": "vless",
-      "status": "failed",
-      "tcp_ms": null
-    },
-    {
-      "name": "🇷🇺Обходы - TG: AirLinkVPNBot |0045| t.me/rjsxrd",
+      "name": "AetrisVPN White list ┃ ✅ SNI: randomquaint.net ┃ 🇷🇺 Россия t.me/rjsxrd",
       "protocol": "vless",
       "status": "ok",
-      "tcp_ms": 165.1
+      "tcp_ms": 144.3
     },
     {
-      "name": "🇷🇺Обходы - TG: AirLinkVPNBot |0011| t.me/rjsxrd",
-      "protocol": "vless",
-      "status": "failed",
-      "tcp_ms": null
-    },
-    {
-      "name": "🇷🇺Обходы - TG: AirLinkVPNBot |0007| t.me/rjsxrd",
-      "protocol": "vless",
-      "status": "failed",
-      "tcp_ms": null
-    },
-    {
-      "name": "🇷🇺Обходы - TG: AirLinkVPNBot |0008| t.me/rjsxrd",
-      "protocol": "vless",
-      "status": "failed",
-      "tcp_ms": null
-    },
-    {
-      "name": "🇷🇺Обходы - TG: AirLinkVPNBot |0016| t.me/rjsxrd",
-      "protocol": "vless",
-      "status": "failed",
-      "tcp_ms": null
-    },
-    {
-      "name": "🇷🇺Обходы - TG: AirLinkVPNBot |0005| t.me/rjsxrd",
-      "protocol": "vless",
-      "status": "failed",
-      "tcp_ms": null
-    },
-    {
-      "name": "🇷🇺Обходы - TG: AirLinkVPNBot |0050| t.me/rjsxrd",
-      "protocol": "vless",
-      "status": "failed",
-      "tcp_ms": null
-    },
-    {
-      "name": "🇷🇺Обходы - TG: AirLinkVPNBot |0051| t.me/rjsxrd",
-      "protocol": "vless",
-      "status": "failed",
-      "tcp_ms": null
-    },
-    {
-      "name": "🇷🇺Обходы - TG: AirLinkVPNBot |0004| t.me/rjsxrd",
-      "protocol": "vless",
-      "status": "failed",
-      "tcp_ms": null
-    },
-    {
-      "name": "🇷🇺Обходы - TG: AirLinkVPNBot |0041| t.me/rjsxrd",
-      "protocol": "vless",
-      "status": "failed",
-      "tcp_ms": null
-    },
-    {
-      "name": "🇷🇺Обходы - TG: AirLinkVPNBot |0018| t.me/rjsxrd",
-      "protocol": "vless",
-      "status": "failed",
-      "tcp_ms": null
-    },
-    {
-      "name": "🇷🇺Обходы - TG: AirLinkVPNBot |0012| t.me/rjsxrd",
-      "protocol": "vless",
-      "status": "failed",
-      "tcp_ms": null
-    },
-    {
-      "name": "🇷🇺Обходы - TG: AirLinkVPNBot |0010| t.me/rjsxrd",
-      "protocol": "vless",
-      "status": "failed",
-      "tcp_ms": null
-    },
-    {
-      "name": "🇷🇺Обходы - TG: AirLinkVPNBot |0036| t.me/rjsxrd",
-      "protocol": "vless",
-      "status": "failed",
-      "tcp_ms": null
-    },
-    {
-      "name": "🇳🇱 The Netherlands | БЕЛЫЙ IP | @RaViraNet t.me/rjsxrd",
+      "name": "AetrisVPN White list ┃ ✅ SNI: fitindoor.net ┃ 🇷🇺 Россия t.me/rjsxrd",
       "protocol": "vless",
       "status": "ok",
-      "tcp_ms": 210.4
-    },
-    {
-      "name": "🇷🇺Обходы - TG: AirLinkVPNBot |0040| t.me/rjsxrd",
-      "protocol": "vless",
-      "status": "failed",
-      "tcp_ms": null
-    },
-    {
-      "name": "🇷🇺Обходы - TG: AirLinkVPNBot |0017| t.me/rjsxrd",
-      "protocol": "vless",
-      "status": "failed",
-      "tcp_ms": null
-    },
-    {
-      "name": "🇷🇺Обходы - TG: AirLinkVPNBot |0043| t.me/rjsxrd",
-      "protocol": "vless",
-      "status": "ok",
-      "tcp_ms": 168.4
-    },
-    {
-      "name": "🇷🇺Обходы - TG: AirLinkVPNBot |0032| t.me/rjsxrd",
-      "protocol": "vless",
-      "status": "failed",
-      "tcp_ms": null
-    },
-    {
-      "name": "🇷🇺Обходы - TG: AirLinkVPNBot |0009| t.me/rjsxrd",
-      "protocol": "vless",
-      "status": "failed",
-      "tcp_ms": null
-    },
-    {
-      "name": "🇷🇺Обходы - TG: AirLinkVPNBot |0020| t.me/rjsxrd",
-      "protocol": "vless",
-      "status": "failed",
-      "tcp_ms": null
-    },
-    {
-      "name": "🇳🇱 The Netherlands | БЕЛЫЙ IP | @RaViraNet t.me/rjsxrd",
-      "protocol": "vless",
-      "status": "ok",
-      "tcp_ms": 169.8
-    },
-    {
-      "name": "🌀 CYBERPORTAL | White Keys #40 t.me/rjsxrd",
-      "protocol": "ss",
-      "status": "ok",
-      "tcp_ms": 152.2
+      "tcp_ms": 140.1
     },
     {
       "name": "AetrisVPN White list ┃ ✅ SNI: randomquaint.net ┃ 🇷🇺 Россия t.me/rjsxrd",
       "protocol": "vless",
       "status": "ok",
-      "tcp_ms": 164.8
+      "tcp_ms": 151.5
     },
     {
-      "name": "AetrisVPN White list ┃ ✅ SNI: ads.x5.ru ┃ 🇧🇾 Беларусь t.me/rjsxrd",
+      "name": "AetrisVPN White list ┃ ✅ SNI: fitindoor.net ┃ 🇷🇺 Россия t.me/rjsxrd",
       "protocol": "vless",
       "status": "ok",
-      "tcp_ms": 153.1
+      "tcp_ms": 150.9
+    },
+    {
+      "name": "AetrisVPN White list ┃ ✅ SNI: fitindoor.net ┃ 🇷🇺 Россия t.me/rjsxrd",
+      "protocol": "vless",
+      "status": "ok",
+      "tcp_ms": 161.0
+    },
+    {
+      "name": "AetrisVPN White list ┃ ✅ SNI: fitindoor.net ┃ 🇷🇺 Россия t.me/rjsxrd",
+      "protocol": "vless",
+      "status": "ok",
+      "tcp_ms": 145.6
+    },
+    {
+      "name": "AetrisVPN White list ┃ ✅ SNI: fitindoor.net ┃ 🇷🇺 Россия t.me/rjsxrd",
+      "protocol": "vless",
+      "status": "ok",
+      "tcp_ms": 152.9
+    },
+    {
+      "name": "AetrisVPN White list ┃ ✅ SNI: fitindoor.net ┃ 🇷🇺 Россия t.me/rjsxrd",
+      "protocol": "vless",
+      "status": "ok",
+      "tcp_ms": 153.4
+    },
+    {
+      "name": "AetrisVPN White list ┃ ✅ SNI: fitindoor.net ┃ 🇷🇺 Россия t.me/rjsxrd",
+      "protocol": "vless",
+      "status": "ok",
+      "tcp_ms": 165.0
+    },
+    {
+      "name": "AetrisVPN White list ┃ ✅ SNI: fitindoor.net ┃ 🇷🇺 Россия t.me/rjsxrd",
+      "protocol": "vless",
+      "status": "ok",
+      "tcp_ms": 154.2
     },
     {
       "name": "AetrisVPN White list ┃ ✅ SNI: randomquaint.net ┃ 🇷🇺 Россия t.me/rjsxrd",
       "protocol": "vless",
       "status": "ok",
-      "tcp_ms": 171.3
+      "tcp_ms": 152.1
     },
     {
       "name": "AetrisVPN White list ┃ ✅ SNI: fitindoor.net ┃ 🇷🇺 Россия t.me/rjsxrd",
       "protocol": "vless",
       "status": "ok",
-      "tcp_ms": 165.1
-    },
-    {
-      "name": "🌀 CYBERPORTAL | White Keys #14 t.me/rjsxrd",
-      "protocol": "vless",
-      "status": "ok",
-      "tcp_ms": 168.2
+      "tcp_ms": 150.8
     },
     {
       "name": "AetrisVPN White list ┃ ✅ SNI: fitindoor.net ┃ 🇷🇺 Россия t.me/rjsxrd",
       "protocol": "vless",
       "status": "ok",
-      "tcp_ms": 173.5
+      "tcp_ms": 138.1
     },
     {
-      "name": "🌀 CYBERPORTAL | White Keys #33 t.me/rjsxrd",
-      "protocol": "hy2",
-      "status": "unsupported",
-      "tcp_ms": null
-    },
-    {
-      "name": "AetrisVPN White list ┃ ✅ SNI: fitindoor.net ┃ 🇷🇺 Россия t.me/rjsxrd",
+      "name": "AetrisVPN White list ┃ ✅ SNI: www.yandex.ru ┃ 🇷🇺 Россия t.me/rjsxrd",
       "protocol": "vless",
       "status": "ok",
-      "tcp_ms": 170.0
+      "tcp_ms": 133.9
     },
     {
-      "name": "AetrisVPN White list ┃ ✅ SNI: fitindoor.net ┃ 🇷🇺 Россия t.me/rjsxrd",
+      "name": "AetrisVPN White list ┃ ✅ SNI: www.yandex.ru ┃ 🇷🇺 Россия t.me/rjsxrd",
       "protocol": "vless",
       "status": "ok",
-      "tcp_ms": 164.2
+      "tcp_ms": 135.1
     },
     {
-      "name": "🌀 CYBERPORTAL | White Keys #52 t.me/rjsxrd",
-      "protocol": "hy2",
-      "status": "unsupported",
-      "tcp_ms": null
+      "name": "AetrisVPN White list ┃ ✅ SNI: yandex.ru ┃ 🇷🇺 Россия t.me/rjsxrd",
+      "protocol": "vless",
+      "status": "ok",
+      "tcp_ms": 145.1
+    },
+    {
+      "name": "AetrisVPN White list ┃ ✅ SNI: www.microsoft.com ┃ 🇪🇸 Испания t.me/rjsxrd",
+      "protocol": "vless",
+      "status": "ok",
+      "tcp_ms": 112.4
     },
     {
       "name": "AetrisVPN White list ┃ ✅ SNI: yandex.ru ┃ 🇮🇹 Италия t.me/rjsxrd",
       "protocol": "vless",
       "status": "ok",
-      "tcp_ms": 188.5
+      "tcp_ms": 1221.5
     },
     {
-      "name": "🌀 CYBERPORTAL | White Keys #25 t.me/rjsxrd",
+      "name": "AetrisVPN White list ┃ ✅ SNI: www.microsoft.com ┃ 🇪🇸 Испания t.me/rjsxrd",
       "protocol": "vless",
       "status": "ok",
-      "tcp_ms": 147.1
+      "tcp_ms": 110.6
+    },
+    {
+      "name": "AetrisVPN White list ┃ ✅ SNI: www.apple.com ┃ 🇵🇱 Польша t.me/rjsxrd",
+      "protocol": "vless",
+      "status": "ok",
+      "tcp_ms": 22.1
     },
     {
       "name": "AetrisVPN White list ┃ ✅ SNI: fitindoor.net ┃ 🇷🇺 Россия t.me/rjsxrd",
       "protocol": "vless",
       "status": "ok",
-      "tcp_ms": 171.6
-    },
-    {
-      "name": "AetrisVPN White list ┃ ✅ SNI: randomquaint.net ┃ 🇷🇺 Россия t.me/rjsxrd",
-      "protocol": "vless",
-      "status": "ok",
-      "tcp_ms": 171.8
-    },
-    {
-      "name": "AetrisVPN White list ┃ ✅ SNI: fitindoor.net ┃ 🇷🇺 Россия t.me/rjsxrd",
-      "protocol": "vless",
-      "status": "ok",
-      "tcp_ms": 171.9
-    },
-    {
-      "name": "🌀 CYBERPORTAL | White Keys #66 t.me/rjsxrd",
-      "protocol": "vless",
-      "status": "ok",
-      "tcp_ms": 138.3
-    },
-    {
-      "name": "AetrisVPN White list ┃ ✅ SNI: randomquaint.net ┃ 🇷🇺 Россия t.me/rjsxrd",
-      "protocol": "vless",
-      "status": "ok",
-      "tcp_ms": 167.3
-    },
-    {
-      "name": "🌀 CYBERPORTAL | White Keys #53 t.me/rjsxrd",
-      "protocol": "hy2",
-      "status": "unsupported",
-      "tcp_ms": null
-    },
-    {
-      "name": "AetrisVPN White list ┃ ✅ SNI: metrika.yandex.ru ┃ 🇪🇸 Испания t.me/rjsxrd",
-      "protocol": "vless",
-      "status": "ok",
-      "tcp_ms": 200.6
-    },
-    {
-      "name": "🌀 CYBERPORTAL | White Keys #74 t.me/rjsxrd",
-      "protocol": "vless",
-      "status": "ok",
-      "tcp_ms": 133.3
-    },
-    {
-      "name": "AetrisVPN White list ┃ ✅ SNI: metrika.yandex.ru ┃ 🇪🇸 Испания t.me/rjsxrd",
-      "protocol": "vless",
-      "status": "ok",
-      "tcp_ms": 1243.8
-    },
-    {
-      "name": "AetrisVPN White list ┃ ✅ SNI: fitindoor.net ┃ 🇷🇺 Россия t.me/rjsxrd",
-      "protocol": "vless",
-      "status": "ok",
-      "tcp_ms": 164.7
-    },
-    {
-      "name": "AetrisVPN White list ┃ ✅ SNI: metrika.yandex.ru ┃ 🇪🇸 Испания t.me/rjsxrd",
-      "protocol": "vless",
-      "status": "ok",
-      "tcp_ms": 202.9
-    },
-    {
-      "name": "🌀 CYBERPORTAL | White Keys #44 t.me/rjsxrd",
-      "protocol": "vless",
-      "status": "ok",
-      "tcp_ms": 137.8
-    },
-    {
-      "name": "AetrisVPN White list ┃ ✅ SNI: summerculture.net ┃ 🇷🇺 Россия t.me/rjsxrd",
-      "protocol": "vless",
-      "status": "failed",
-      "tcp_ms": null
-    },
-    {
-      "name": "AetrisVPN White list ┃ ✅ SNI: randomquaint.net ┃ 🇷🇺 Россия t.me/rjsxrd",
-      "protocol": "vless",
-      "status": "ok",
-      "tcp_ms": 172.8
-    },
-    {
-      "name": "AetrisVPN White list ┃ ✅ SNI: dismissaltree.net ┃ 🇷🇺 Россия t.me/rjsxrd",
-      "protocol": "vless",
-      "status": "failed",
-      "tcp_ms": null
-    },
-    {
-      "name": "AetrisVPN White list ┃ ✅ SNI: randomquaint.net ┃ 🇷🇺 Россия t.me/rjsxrd",
-      "protocol": "vless",
-      "status": "ok",
-      "tcp_ms": 171.9
-    },
-    {
-      "name": "🌀 CYBERPORTAL | White Keys #76 t.me/rjsxrd",
-      "protocol": "vless",
-      "status": "ok",
-      "tcp_ms": 191.4
-    },
-    {
-      "name": "AetrisVPN White list ┃ ✅ SNI: fitindoor.net ┃ 🇷🇺 Россия t.me/rjsxrd",
-      "protocol": "vless",
-      "status": "ok",
-      "tcp_ms": 172.4
-    },
-    {
-      "name": "🌀 CYBERPORTAL | White Keys #48 t.me/rjsxrd",
-      "protocol": "trojan",
-      "status": "ok",
-      "tcp_ms": 149.2
-    },
-    {
-      "name": "AetrisVPN White list ┃ ✅ SNI: summerculture.net ┃ 🇷🇺 Россия t.me/rjsxrd",
-      "protocol": "vless",
-      "status": "failed",
-      "tcp_ms": null
-    },
-    {
-      "name": "AetrisVPN White list ┃ ✅ SNI: randomquaint.net ┃ 🇷🇺 Россия t.me/rjsxrd",
-      "protocol": "vless",
-      "status": "ok",
-      "tcp_ms": 171.2
-    },
-    {
-      "name": "AetrisVPN White list ┃ ✅ SNI: summerculture.net ┃ 🇷🇺 Россия t.me/rjsxrd",
-      "protocol": "vless",
-      "status": "failed",
-      "tcp_ms": null
-    },
-    {
-      "name": "🌀 CYBERPORTAL | White Keys #57 t.me/rjsxrd",
-      "protocol": "vless",
-      "status": "ok",
-      "tcp_ms": 144.1
-    },
-    {
-      "name": "🌀 CYBERPORTAL | White Keys #68 t.me/rjsxrd",
-      "protocol": "vless",
-      "status": "failed",
-      "tcp_ms": null
-    },
-    {
-      "name": "AetrisVPN White list ┃ ✅ SNI: fitindoor.net ┃ 🇷🇺 Россия t.me/rjsxrd",
-      "protocol": "vless",
-      "status": "ok",
-      "tcp_ms": 165.6
-    },
-    {
-      "name": "🌀 CYBERPORTAL | White Keys #15 t.me/rjsxrd",
-      "protocol": "vless",
-      "status": "failed",
-      "tcp_ms": null
-    },
-    {
-      "name": "AetrisVPN White list ┃ ✅ SNI: dismissaltree.net ┃ 🇷🇺 Россия t.me/rjsxrd",
-      "protocol": "vless",
-      "status": "failed",
-      "tcp_ms": null
-    },
-    {
-      "name": "AetrisVPN White list ┃ ✅ SNI: summerculture.net ┃ 🇷🇺 Россия t.me/rjsxrd",
-      "protocol": "vless",
-      "status": "failed",
-      "tcp_ms": null
-    },
-    {
-      "name": "AetrisVPN White list ┃ ✅ SNI: fitindoor.net ┃ 🇷🇺 Россия t.me/rjsxrd",
-      "protocol": "vless",
-      "status": "ok",
-      "tcp_ms": 171.4
-    },
-    {
-      "name": "AetrisVPN White list ┃ ✅ SNI: fitindoor.net ┃ 🇷🇺 Россия t.me/rjsxrd",
-      "protocol": "vless",
-      "status": "ok",
-      "tcp_ms": 165.9
-    },
-    {
-      "name": "🌀 CYBERPORTAL | White Keys #46 t.me/rjsxrd",
-      "protocol": "vless",
-      "status": "ok",
-      "tcp_ms": 9.8
-    },
-    {
-      "name": "AetrisVPN White list ┃ ✅ SNI: fitindoor.net ┃ 🇷🇺 Россия t.me/rjsxrd",
-      "protocol": "vless",
-      "status": "ok",
-      "tcp_ms": 173.6
-    },
-    {
-      "name": "AetrisVPN White list ┃ ✅ SNI: dismissaltree.net ┃ 🇷🇺 Россия t.me/rjsxrd",
-      "protocol": "vless",
-      "status": "failed",
-      "tcp_ms": null
-    },
-    {
-      "name": "AetrisVPN White list ┃ ✅ SNI: fitindoor.net ┃ 🇷🇺 Россия t.me/rjsxrd",
-      "protocol": "vless",
-      "status": "ok",
-      "tcp_ms": 174.3
-    },
-    {
-      "name": "AetrisVPN White list ┃ ✅ SNI: fitindoor.net ┃ 🇷🇺 Россия t.me/rjsxrd",
-      "protocol": "vless",
-      "status": "ok",
-      "tcp_ms": 173.7
-    },
-    {
-      "name": "AetrisVPN White list ┃ ✅ SNI: dismissaltree.net ┃ 🇷🇺 Россия t.me/rjsxrd",
-      "protocol": "vless",
-      "status": "failed",
-      "tcp_ms": null
-    },
-    {
-      "name": "AetrisVPN White list ┃ ✅ SNI: randomquaint.net ┃ 🇧🇬 Болгария t.me/rjsxrd",
-      "protocol": "vless",
-      "status": "ok",
-      "tcp_ms": 172.6
-    },
-    {
-      "name": "AetrisVPN White list ┃ ✅ SNI: fitindoor.net ┃ 🇷🇺 Россия t.me/rjsxrd",
-      "protocol": "vless",
-      "status": "ok",
-      "tcp_ms": 173.2
-    },
-    {
-      "name": "AetrisVPN White list ┃ ✅ SNI: dismissaltree.net ┃ 🇷🇺 Россия t.me/rjsxrd",
-      "protocol": "vless",
-      "status": "failed",
-      "tcp_ms": null
-    },
-    {
-      "name": "AetrisVPN White list ┃ ✅ SNI: randomquaint.net ┃ 🇷🇺 Россия t.me/rjsxrd",
-      "protocol": "vless",
-      "status": "ok",
-      "tcp_ms": 170.9
-    },
-    {
-      "name": "AetrisVPN White list ┃ ✅ SNI: randomquaint.net ┃ 🇧🇬 Болгария t.me/rjsxrd",
-      "protocol": "vless",
-      "status": "ok",
-      "tcp_ms": 171.9
-    },
-    {
-      "name": "AetrisVPN White list ┃ ✅ SNI: fitindoor.net ┃ 🇷🇺 Россия t.me/rjsxrd",
-      "protocol": "vless",
-      "status": "ok",
-      "tcp_ms": 166.9
-    },
-    {
-      "name": "AetrisVPN White list ┃ ✅ SNI: id.vk.com ┃ 🇫🇮 Финляндия t.me/rjsxrd",
-      "protocol": "vless",
-      "status": "ok",
-      "tcp_ms": 224.7
-    },
-    {
-      "name": "AetrisVPN White list ┃ ✅ SNI: fitindoor.net ┃ 🇷🇺 Россия t.me/rjsxrd",
-      "protocol": "vless",
-      "status": "ok",
-      "tcp_ms": 169.0
-    },
-    {
-      "name": "AetrisVPN White list ┃ ✅ SNI: fitindoor.net ┃ 🇷🇺 Россия t.me/rjsxrd",
-      "protocol": "vless",
-      "status": "ok",
-      "tcp_ms": 165.0
-    },
-    {
-      "name": "AetrisVPN White list ┃ ✅ SNI: dismissaltree.net ┃ 🇷🇺 Россия t.me/rjsxrd",
-      "protocol": "vless",
-      "status": "failed",
-      "tcp_ms": null
-    },
-    {
-      "name": "AetrisVPN White list ┃ ✅ SNI: dismissaltree.net ┃ 🇷🇺 Россия t.me/rjsxrd",
-      "protocol": "vless",
-      "status": "failed",
-      "tcp_ms": null
-    },
-    {
-      "name": "AetrisVPN White list ┃ ✅ SNI: summerculture.net ┃ 🇷🇺 Россия t.me/rjsxrd",
-      "protocol": "vless",
-      "status": "failed",
-      "tcp_ms": null
-    },
-    {
-      "name": "AetrisVPN White list ┃ ✅ SNI: dismissaltree.net ┃ 🇷🇺 Россия t.me/rjsxrd",
-      "protocol": "vless",
-      "status": "failed",
-      "tcp_ms": null
-    },
-    {
-      "name": "AetrisVPN White list ┃ ✅ SNI: randomquaint.net ┃ 🇧🇬 Болгария t.me/rjsxrd",
-      "protocol": "vless",
-      "status": "ok",
-      "tcp_ms": 167.1
-    },
-    {
-      "name": "AetrisVPN White list ┃ ✅ SNI: id.vk.com ┃ 🇫🇮 Финляндия t.me/rjsxrd",
-      "protocol": "vless",
-      "status": "ok",
-      "tcp_ms": 218.2
-    },
-    {
-      "name": "AetrisVPN White list ┃ ✅ SNI: dismissaltree.net ┃ 🇷🇺 Россия t.me/rjsxrd",
-      "protocol": "vless",
-      "status": "failed",
-      "tcp_ms": null
-    },
-    {
-      "name": "AetrisVPN White list ┃ ✅ SNI: fitindoor.net ┃ 🇷🇺 Россия t.me/rjsxrd",
-      "protocol": "vless",
-      "status": "ok",
-      "tcp_ms": 165.7
-    },
-    {
-      "name": "AetrisVPN White list ┃ ✅ SNI: fitindoor.net ┃ 🇷🇺 Россия t.me/rjsxrd",
-      "protocol": "vless",
-      "status": "ok",
-      "tcp_ms": 172.1
-    },
-    {
-      "name": "🌀 CYBERPORTAL | White Keys #29 t.me/rjsxrd",
-      "protocol": "vless",
-      "status": "ok",
-      "tcp_ms": 145.9
-    },
-    {
-      "name": "AetrisVPN White list ┃ ✅ SNI: fitindoor.net ┃ 🇷🇺 Россия t.me/rjsxrd",
-      "protocol": "vless",
-      "status": "ok",
-      "tcp_ms": 165.0
-    },
-    {
-      "name": "AetrisVPN White list ┃ ✅ SNI: dismissaltree.net ┃ 🇷🇺 Россия t.me/rjsxrd",
-      "protocol": "vless",
-      "status": "failed",
-      "tcp_ms": null
-    },
-    {
-      "name": "🌀 CYBERPORTAL | White Keys #32 t.me/rjsxrd",
-      "protocol": "trojan",
-      "status": "ok",
-      "tcp_ms": 146.0
-    },
-    {
-      "name": "🌀 CYBERPORTAL | White Keys #5 t.me/rjsxrd",
-      "protocol": "vless",
-      "status": "ok",
-      "tcp_ms": 131.8
-    },
-    {
-      "name": "AetrisVPN White list ┃ ✅ SNI: summerculture.net ┃ 🇷🇺 Россия t.me/rjsxrd",
-      "protocol": "vless",
-      "status": "failed",
-      "tcp_ms": null
-    },
-    {
-      "name": "AetrisVPN White list ┃ ✅ SNI: summerculture.net ┃ 🇷🇺 Россия t.me/rjsxrd",
-      "protocol": "vless",
-      "status": "failed",
-      "tcp_ms": null
-    },
-    {
-      "name": "AetrisVPN White list ┃ ✅ SNI: dismissaltree.net ┃ 🇷🇺 Россия t.me/rjsxrd",
-      "protocol": "vless",
-      "status": "failed",
-      "tcp_ms": null
-    },
-    {
-      "name": "AetrisVPN White list ┃ ✅ SNI: dismissaltree.net ┃ 🇷🇺 Россия t.me/rjsxrd",
-      "protocol": "vless",
-      "status": "failed",
-      "tcp_ms": null
-    },
-    {
-      "name": "AetrisVPN White list ┃ ✅ SNI: dismissaltree.net ┃ 🇷🇺 Россия t.me/rjsxrd",
-      "protocol": "vless",
-      "status": "failed",
-      "tcp_ms": null
-    },
-    {
-      "name": "🌀 CYBERPORTAL | White Keys #30 t.me/rjsxrd",
-      "protocol": "vless",
-      "status": "ok",
-      "tcp_ms": 444.9
+      "tcp_ms": 150.9
     },
     {
       "name": "AetrisVPN White list ┃ ✅ SNI: metrika.yandex.ru ┃ 🇸🇪 Швеция t.me/rjsxrd",
       "protocol": "vless",
       "status": "ok",
-      "tcp_ms": 184.4
+      "tcp_ms": 118.5
     },
     {
-      "name": "AetrisVPN White list ┃ ✅ SNI: dismissaltree.net ┃ 🇷🇺 Россия t.me/rjsxrd",
+      "name": "AetrisVPN White list ┃ ✅ SNI: cdn.tbank.ru ┃ 🇩🇪 Германия t.me/rjsxrd",
       "protocol": "vless",
-      "status": "failed",
-      "tcp_ms": null
-    },
-    {
-      "name": "AetrisVPN White list ┃ ✅ SNI: dismissaltree.net ┃ 🇷🇺 Россия t.me/rjsxrd",
-      "protocol": "vless",
-      "status": "failed",
-      "tcp_ms": null
-    },
-    {
-      "name": "AetrisVPN White list ┃ ✅ SNI: fitindoor.net ┃ 🇷🇺 Россия t.me/rjsxrd",
-      "protocol": "vless",
-      "status": "ok",
-      "tcp_ms": 173.9
-    },
-    {
-      "name": "AetrisVPN White list ┃ ✅ SNI: dismissaltree.net ┃ 🇷🇺 Россия t.me/rjsxrd",
-      "protocol": "vless",
-      "status": "failed",
-      "tcp_ms": null
-    },
-    {
-      "name": "🌀 CYBERPORTAL | White Keys #288 t.me/rjsxrd",
-      "protocol": "vless",
-      "status": "ok",
-      "tcp_ms": 167.1
-    },
-    {
-      "name": "🌀 CYBERPORTAL | White Keys #363 t.me/rjsxrd",
-      "protocol": "vless",
-      "status": "ok",
-      "tcp_ms": 173.9
-    },
-    {
-      "name": "🌀 CYBERPORTAL | White Keys #240 t.me/rjsxrd",
-      "protocol": "vless",
-      "status": "ok",
-      "tcp_ms": 181.4
-    },
-    {
-      "name": "🌀 CYBERPORTAL | White Keys #221 t.me/rjsxrd",
-      "protocol": "vless",
-      "status": "ok",
-      "tcp_ms": 130.8
-    },
-    {
-      "name": "🌀 CYBERPORTAL | White Keys #208 t.me/rjsxrd",
-      "protocol": "vless",
-      "status": "ok",
-      "tcp_ms": 166.0
-    },
-    {
-      "name": "🌀 CYBERPORTAL | White Keys #162 t.me/rjsxrd",
-      "protocol": "vless",
-      "status": "ok",
-      "tcp_ms": 166.3
-    },
-    {
-      "name": "🌀 CYBERPORTAL | White Keys #224 t.me/rjsxrd",
-      "protocol": "vless",
-      "status": "ok",
-      "tcp_ms": 171.9
-    },
-    {
-      "name": "🌀 CYBERPORTAL | White Keys #205 t.me/rjsxrd",
-      "protocol": "vless",
-      "status": "ok",
-      "tcp_ms": 180.4
-    },
-    {
-      "name": "🌀 CYBERPORTAL | White Keys #286 t.me/rjsxrd",
-      "protocol": "vless",
-      "status": "ok",
-      "tcp_ms": 166.3
-    },
-    {
-      "name": "🌀 CYBERPORTAL | White Keys #229 t.me/rjsxrd",
-      "protocol": "vless",
-      "status": "ok",
-      "tcp_ms": 171.1
-    },
-    {
-      "name": "🌀 CYBERPORTAL | White Keys #191 t.me/rjsxrd",
-      "protocol": "vless",
-      "status": "ok",
-      "tcp_ms": 164.9
-    },
-    {
-      "name": "🌀 CYBERPORTAL | White Keys #175 t.me/rjsxrd",
-      "protocol": "vless",
-      "status": "ok",
-      "tcp_ms": 9.9
-    },
-    {
-      "name": "🌀 CYBERPORTAL | White Keys #281 t.me/rjsxrd",
-      "protocol": "vless",
-      "status": "ok",
-      "tcp_ms": 173.8
-    },
-    {
-      "name": "🌀 CYBERPORTAL | White Keys #159 t.me/rjsxrd",
-      "protocol": "vless",
-      "status": "ok",
-      "tcp_ms": 145.2
-    },
-    {
-      "name": "🌀 CYBERPORTAL | White Keys #99 t.me/rjsxrd",
-      "protocol": "vless",
-      "status": "ok",
-      "tcp_ms": 144.4
-    },
-    {
-      "name": "🌀 CYBERPORTAL | White Keys #304 t.me/rjsxrd",
-      "protocol": "vless",
-      "status": "ok",
-      "tcp_ms": 171.8
-    },
-    {
-      "name": "🌀 CYBERPORTAL | White Keys #350 t.me/rjsxrd",
-      "protocol": "vless",
-      "status": "ok",
-      "tcp_ms": 164.2
-    },
-    {
-      "name": "🌀 CYBERPORTAL | White Keys #303 t.me/rjsxrd",
-      "protocol": "vless",
-      "status": "ok",
-      "tcp_ms": 171.4
-    },
-    {
-      "name": "🌀 CYBERPORTAL | White Keys #210 t.me/rjsxrd",
-      "protocol": "vless",
-      "status": "ok",
-      "tcp_ms": 9.4
-    },
-    {
-      "name": "🌀 CYBERPORTAL | White Keys #252 t.me/rjsxrd",
-      "protocol": "vless",
-      "status": "ok",
-      "tcp_ms": 171.6
-    },
-    {
-      "name": "🌀 CYBERPORTAL | White Keys #235 t.me/rjsxrd",
-      "protocol": "vless",
-      "status": "ok",
-      "tcp_ms": 9.0
-    },
-    {
-      "name": "🌀 CYBERPORTAL | White Keys #270 t.me/rjsxrd",
-      "protocol": "vless",
-      "status": "ok",
-      "tcp_ms": 165.7
-    },
-    {
-      "name": "🌀 CYBERPORTAL | White Keys #250 t.me/rjsxrd",
-      "protocol": "vless",
-      "status": "ok",
-      "tcp_ms": 165.6
-    },
-    {
-      "name": "🌀 CYBERPORTAL | White Keys #167 t.me/rjsxrd",
-      "protocol": "vless",
-      "status": "ok",
-      "tcp_ms": 171.8
-    },
-    {
-      "name": "🌀 CYBERPORTAL | White Keys #412 t.me/rjsxrd",
-      "protocol": "vless",
-      "status": "ok",
-      "tcp_ms": 166.2
-    },
-    {
-      "name": "🌀 CYBERPORTAL | White Keys #188 t.me/rjsxrd",
-      "protocol": "vless",
-      "status": "ok",
-      "tcp_ms": 9.2
-    },
-    {
-      "name": "🌀 CYBERPORTAL | White Keys #220 t.me/rjsxrd",
-      "protocol": "vless",
-      "status": "ok",
-      "tcp_ms": 9.9
-    },
-    {
-      "name": "🌀 CYBERPORTAL | White Keys #245 t.me/rjsxrd",
-      "protocol": "vless",
-      "status": "ok",
-      "tcp_ms": 163.9
-    },
-    {
-      "name": "🌀 CYBERPORTAL | White Keys #351 t.me/rjsxrd",
-      "protocol": "vless",
-      "status": "ok",
-      "tcp_ms": 144.1
-    },
-    {
-      "name": "🌀 CYBERPORTAL | White Keys #177 t.me/rjsxrd",
-      "protocol": "vless",
-      "status": "ok",
-      "tcp_ms": 9.1
-    },
-    {
-      "name": "🌀 CYBERPORTAL | White Keys #209 t.me/rjsxrd",
-      "protocol": "vless",
-      "status": "ok",
-      "tcp_ms": 10.0
-    },
-    {
-      "name": "🌀 CYBERPORTAL | White Keys #196 t.me/rjsxrd",
-      "protocol": "vless",
-      "status": "ok",
-      "tcp_ms": 9.3
-    },
-    {
-      "name": "🌀 CYBERPORTAL | White Keys #251 t.me/rjsxrd",
-      "protocol": "vless",
-      "status": "ok",
-      "tcp_ms": 172.0
-    },
-    {
-      "name": "🌀 CYBERPORTAL | White Keys #358 t.me/rjsxrd",
-      "protocol": "vless",
-      "status": "ok",
-      "tcp_ms": 140.5
-    },
-    {
-      "name": "🌀 CYBERPORTAL | White Keys #367 t.me/rjsxrd",
-      "protocol": "vless",
-      "status": "ok",
-      "tcp_ms": 174.2
-    },
-    {
-      "name": "🌀 CYBERPORTAL | White Keys #182 t.me/rjsxrd",
-      "protocol": "vless",
-      "status": "ok",
-      "tcp_ms": 10.8
-    },
-    {
-      "name": "🌀 CYBERPORTAL | White Keys #242 t.me/rjsxrd",
-      "protocol": "vless",
-      "status": "ok",
-      "tcp_ms": 193.5
-    },
-    {
-      "name": "🌀 CYBERPORTAL | White Keys #310 t.me/rjsxrd",
-      "protocol": "vless",
-      "status": "ok",
-      "tcp_ms": 140.7
-    },
-    {
-      "name": "🌀 CYBERPORTAL | White Keys #467 t.me/rjsxrd",
-      "protocol": "vless",
-      "status": "ok",
-      "tcp_ms": 164.7
-    },
-    {
-      "name": "🌀 CYBERPORTAL | White Keys #194 t.me/rjsxrd",
-      "protocol": "vless",
-      "status": "ok",
-      "tcp_ms": 167.0
-    },
-    {
-      "name": "🌀 CYBERPORTAL | White Keys #466 t.me/rjsxrd",
-      "protocol": "vless",
-      "status": "ok",
-      "tcp_ms": 139.9
-    },
-    {
-      "name": "🌀 CYBERPORTAL | White Keys #440 t.me/rjsxrd",
-      "protocol": "vless",
-      "status": "ok",
-      "tcp_ms": 172.1
-    },
-    {
-      "name": "🌀 CYBERPORTAL | White Keys #169 t.me/rjsxrd",
-      "protocol": "vless",
-      "status": "ok",
-      "tcp_ms": 173.4
-    },
-    {
-      "name": "🌀 CYBERPORTAL | White Keys #223 t.me/rjsxrd",
-      "protocol": "vless",
-      "status": "ok",
-      "tcp_ms": 176.4
-    },
-    {
-      "name": "🌀 CYBERPORTAL | White Keys #354 t.me/rjsxrd",
-      "protocol": "vless",
-      "status": "ok",
-      "tcp_ms": 9.0
-    },
-    {
-      "name": "🌀 CYBERPORTAL | White Keys #201 t.me/rjsxrd",
-      "protocol": "vless",
-      "status": "ok",
-      "tcp_ms": 9.1
-    },
-    {
-      "name": "🌀 CYBERPORTAL | White Keys #357 t.me/rjsxrd",
-      "protocol": "vless",
-      "status": "ok",
-      "tcp_ms": 8.6
-    },
-    {
-      "name": "🌀 CYBERPORTAL | White Keys #335 t.me/rjsxrd",
-      "protocol": "vless",
-      "status": "ok",
-      "tcp_ms": 172.8
-    },
-    {
-      "name": "🌀 CYBERPORTAL | White Keys #292 t.me/rjsxrd",
-      "protocol": "vless",
-      "status": "ok",
-      "tcp_ms": 8.9
-    },
-    {
-      "name": "🌀 CYBERPORTAL | White Keys #155 t.me/rjsxrd",
-      "protocol": "ss",
-      "status": "ok",
-      "tcp_ms": 2233.3
-    },
-    {
-      "name": "🌀 CYBERPORTAL | White Keys #282 t.me/rjsxrd",
-      "protocol": "vless",
-      "status": "ok",
-      "tcp_ms": 174.0
-    },
-    {
-      "name": "🌀 CYBERPORTAL | White Keys #298 t.me/rjsxrd",
-      "protocol": "vless",
-      "status": "ok",
-      "tcp_ms": 9.1
-    },
-    {
-      "name": "🌀 CYBERPORTAL | White Keys #290 t.me/rjsxrd",
-      "protocol": "vless",
-      "status": "ok",
-      "tcp_ms": 172.0
-    },
-    {
-      "name": "🌀 CYBERPORTAL | White Keys #317 t.me/rjsxrd",
-      "protocol": "vless",
-      "status": "ok",
-      "tcp_ms": 9.8
-    },
-    {
-      "name": "🌀 CYBERPORTAL | White Keys #295 t.me/rjsxrd",
-      "protocol": "vless",
       "status": "ok",
-      "tcp_ms": 8.8
+      "tcp_ms": 200.3
     },
     {
-      "name": "🌀 CYBERPORTAL | White Keys #254 t.me/rjsxrd",
+      "name": "AetrisVPN White list ┃ ✅ SNI: cdn.tbank.ru ┃ 🇩🇪 Германия t.me/rjsxrd",
       "protocol": "vless",
       "status": "ok",
-      "tcp_ms": 9.2
+      "tcp_ms": 2271.8
     },
     {
-      "name": "🌀 CYBERPORTAL | White Keys #364 t.me/rjsxrd",
+      "name": "AetrisVPN White list ┃ ✅ SNI: cdn.tbank.ru ┃ 🇩🇪 Германия t.me/rjsxrd",
       "protocol": "vless",
       "status": "ok",
-      "tcp_ms": 9.5
+      "tcp_ms": 204.1
     },
     {
-      "name": "🌀 CYBERPORTAL | White Keys #311 t.me/rjsxrd",
+      "name": "AetrisVPN White list ┃ ✅ SNI: cdn.tbank.ru ┃ 🇩🇪 Германия t.me/rjsxrd",
       "protocol": "vless",
       "status": "ok",
-      "tcp_ms": 8.9
+      "tcp_ms": 194.7
     },
     {
-      "name": "🌀 CYBERPORTAL | White Keys #342 t.me/rjsxrd",
+      "name": "AetrisVPN White list ┃ ✅ SNI: randomquaint.net ┃ 🇷🇺 Россия t.me/rjsxrd",
       "protocol": "vless",
       "status": "ok",
-      "tcp_ms": 159.3
+      "tcp_ms": 156.9
     },
     {
-      "name": "🌀 CYBERPORTAL | White Keys #163 t.me/rjsxrd",
+      "name": "AetrisVPN White list ┃ ✅ SNI: cdn.tbank.ru ┃ 🇩🇪 Германия t.me/rjsxrd",
       "protocol": "vless",
       "status": "ok",
-      "tcp_ms": 9.9
+      "tcp_ms": 204.2
     },
     {
-      "name": "🌀 CYBERPORTAL | White Keys #160 t.me/rjsxrd",
+      "name": "AetrisVPN White list ┃ ✅ SNI: cdn.tbank.ru ┃ 🇩🇪 Германия t.me/rjsxrd",
       "protocol": "vless",
       "status": "ok",
-      "tcp_ms": 8.9
+      "tcp_ms": 195.1
     },
     {
-      "name": "🌀 CYBERPORTAL | White Keys #127 t.me/rjsxrd",
-      "protocol": "ss",
-      "status": "ok",
-      "tcp_ms": 2205.1
-    },
-    {
-      "name": "🌀 CYBERPORTAL | White Keys #275 t.me/rjsxrd",
-      "protocol": "vless",
-      "status": "ok",
-      "tcp_ms": 9.4
-    },
-    {
-      "name": "🌀 CYBERPORTAL | White Keys #147 t.me/rjsxrd",
-      "protocol": "ss",
-      "status": "ok",
-      "tcp_ms": 151.8
-    },
-    {
-      "name": "🌀 CYBERPORTAL | White Keys #397 t.me/rjsxrd",
-      "protocol": "vless",
-      "status": "ok",
-      "tcp_ms": 171.4
-    },
-    {
-      "name": "🌀 CYBERPORTAL | White Keys #218 t.me/rjsxrd",
-      "protocol": "vless",
-      "status": "ok",
-      "tcp_ms": 174.2
-    },
-    {
-      "name": "🌀 CYBERPORTAL | White Keys #410 t.me/rjsxrd",
-      "protocol": "vless",
-      "status": "ok",
-      "tcp_ms": 140.5
-    },
-    {
-      "name": "🌀 CYBERPORTAL | White Keys #302 t.me/rjsxrd",
-      "protocol": "vless",
-      "status": "ok",
-      "tcp_ms": 8.9
-    },
-    {
-      "name": "🌀 CYBERPORTAL | White Keys #369 t.me/rjsxrd",
-      "protocol": "vless",
-      "status": "ok",
-      "tcp_ms": 9.3
-    },
-    {
-      "name": "🌀 CYBERPORTAL | White Keys #296 t.me/rjsxrd",
-      "protocol": "vless",
-      "status": "ok",
-      "tcp_ms": 8.8
-    },
-    {
-      "name": "🌀 CYBERPORTAL | White Keys #164 t.me/rjsxrd",
-      "protocol": "vless",
-      "status": "ok",
-      "tcp_ms": 8.6
-    },
-    {
-      "name": "🌀 CYBERPORTAL | White Keys #436 t.me/rjsxrd",
-      "protocol": "vless",
-      "status": "ok",
-      "tcp_ms": 179.6
-    },
-    {
-      "name": "🌀 CYBERPORTAL | White Keys #368 t.me/rjsxrd",
-      "protocol": "vless",
-      "status": "ok",
-      "tcp_ms": 174.0
-    },
-    {
-      "name": "🌀 CYBERPORTAL | White Keys #406 t.me/rjsxrd",
-      "protocol": "vless",
-      "status": "ok",
-      "tcp_ms": 164.2
-    },
-    {
-      "name": "🌀 CYBERPORTAL | White Keys #339 t.me/rjsxrd",
-      "protocol": "vless",
-      "status": "ok",
-      "tcp_ms": 170.7
-    },
-    {
-      "name": "🌀 CYBERPORTAL | White Keys #365 t.me/rjsxrd",
-      "protocol": "vless",
-      "status": "ok",
-      "tcp_ms": 177.8
-    },
-    {
-      "name": "🌀 CYBERPORTAL | White Keys #439 t.me/rjsxrd",
-      "protocol": "vless",
-      "status": "ok",
-      "tcp_ms": 171.9
-    },
-    {
-      "name": "🌀 CYBERPORTAL | White Keys #332 t.me/rjsxrd",
-      "protocol": "vless",
-      "status": "ok",
-      "tcp_ms": 8.9
-    },
-    {
-      "name": "🌀 CYBERPORTAL | White Keys #360 t.me/rjsxrd",
-      "protocol": "vless",
-      "status": "ok",
-      "tcp_ms": 163.6
-    },
-    {
-      "name": "🌀 CYBERPORTAL | White Keys #458 t.me/rjsxrd",
-      "protocol": "vless",
-      "status": "ok",
-      "tcp_ms": 8.7
-    },
-    {
-      "name": "🌀 CYBERPORTAL | White Keys #396 t.me/rjsxrd",
-      "protocol": "vless",
-      "status": "ok",
-      "tcp_ms": 169.5
-    },
-    {
-      "name": "🌀 CYBERPORTAL | White Keys #261 t.me/rjsxrd",
-      "protocol": "vless",
-      "status": "failed",
-      "tcp_ms": null
-    },
-    {
-      "name": "🌀 CYBERPORTAL | White Keys #380 t.me/rjsxrd",
-      "protocol": "vless",
-      "status": "ok",
-      "tcp_ms": 161.2
-    },
-    {
-      "name": "🌀 CYBERPORTAL | White Keys #359 t.me/rjsxrd",
-      "protocol": "vless",
-      "status": "ok",
-      "tcp_ms": 230.2
-    },
-    {
-      "name": "🌀 CYBERPORTAL | White Keys #424 t.me/rjsxrd",
-      "protocol": "vless",
-      "status": "ok",
-      "tcp_ms": 164.6
-    },
-    {
-      "name": "🌀 CYBERPORTAL | White Keys #256 t.me/rjsxrd",
-      "protocol": "vless",
-      "status": "ok",
-      "tcp_ms": 9.5
-    },
-    {
-      "name": "🌀 CYBERPORTAL | White Keys #266 t.me/rjsxrd",
-      "protocol": "vless",
-      "status": "ok",
-      "tcp_ms": 8.5
-    },
-    {
-      "name": "🌀 CYBERPORTAL | White Keys #329 t.me/rjsxrd",
-      "protocol": "vless",
-      "status": "ok",
-      "tcp_ms": 10.4
-    },
-    {
-      "name": "🌀 CYBERPORTAL | White Keys #456 t.me/rjsxrd",
-      "protocol": "vless",
-      "status": "ok",
-      "tcp_ms": 142.5
-    },
-    {
-      "name": "🌀 CYBERPORTAL | White Keys #389 t.me/rjsxrd",
-      "protocol": "vless",
-      "status": "ok",
-      "tcp_ms": 9.2
-    },
-    {
-      "name": "🌀 CYBERPORTAL | White Keys #427 t.me/rjsxrd",
-      "protocol": "vless",
-      "status": "ok",
-      "tcp_ms": 173.6
-    },
-    {
-      "name": "🌀 CYBERPORTAL | White Keys #379 t.me/rjsxrd",
-      "protocol": "vless",
-      "status": "ok",
-      "tcp_ms": 9.5
-    },
-    {
-      "name": "🌀 CYBERPORTAL | White Keys #407 t.me/rjsxrd",
-      "protocol": "vless",
-      "status": "ok",
-      "tcp_ms": 9.7
-    },
-    {
-      "name": "🌀 CYBERPORTAL | White Keys #423 t.me/rjsxrd",
-      "protocol": "vless",
-      "status": "ok",
-      "tcp_ms": 9.0
-    },
-    {
-      "name": "🌀 CYBERPORTAL | White Keys #269 t.me/rjsxrd",
-      "protocol": "vless",
-      "status": "ok",
-      "tcp_ms": 186.9
-    },
-    {
-      "name": "🌀 CYBERPORTAL | White Keys #225 t.me/rjsxrd",
-      "protocol": "vless",
-      "status": "failed",
-      "tcp_ms": null
-    },
-    {
-      "name": "🌀 CYBERPORTAL | White Keys #386 t.me/rjsxrd",
-      "protocol": "vless",
-      "status": "ok",
-      "tcp_ms": 10.6
-    },
-    {
-      "name": "🌀 CYBERPORTAL | White Keys #469 t.me/rjsxrd",
-      "protocol": "vless",
-      "status": "ok",
-      "tcp_ms": 165.1
-    },
-    {
-      "name": "🌀 CYBERPORTAL | White Keys #471 t.me/rjsxrd",
-      "protocol": "vless",
-      "status": "ok",
-      "tcp_ms": 143.6
-    },
-    {
-      "name": "🌀 CYBERPORTAL | White Keys #422 t.me/rjsxrd",
-      "protocol": "vless",
-      "status": "ok",
-      "tcp_ms": 169.9
-    },
-    {
-      "name": "🌀 CYBERPORTAL | White Keys #420 t.me/rjsxrd",
-      "protocol": "vless",
-      "status": "ok",
-      "tcp_ms": 169.8
-    },
-    {
-      "name": "🌀 CYBERPORTAL | White Keys #419 t.me/rjsxrd",
-      "protocol": "vless",
-      "status": "ok",
-      "tcp_ms": 164.6
-    },
-    {
-      "name": "🌀 CYBERPORTAL | White Keys #462 t.me/rjsxrd",
-      "protocol": "vless",
-      "status": "ok",
-      "tcp_ms": 8.8
-    },
-    {
-      "name": "🌀 CYBERPORTAL | White Keys #463 t.me/rjsxrd",
-      "protocol": "vless",
-      "status": "ok",
-      "tcp_ms": 8.8
-    },
-    {
-      "name": "🌀 CYBERPORTAL | White Keys #395 t.me/rjsxrd",
-      "protocol": "vless",
-      "status": "ok",
-      "tcp_ms": 179.2
-    },
-    {
-      "name": "🌀 CYBERPORTAL | White Keys #441 t.me/rjsxrd",
-      "protocol": "vless",
-      "status": "ok",
-      "tcp_ms": 12.8
-    },
-    {
-      "name": "🌀 CYBERPORTAL | White Keys #398 t.me/rjsxrd",
-      "protocol": "vless",
-      "status": "ok",
-      "tcp_ms": 9.7
-    },
-    {
-      "name": "🌀 CYBERPORTAL | White Keys #414 t.me/rjsxrd",
-      "protocol": "vless",
-      "status": "ok",
-      "tcp_ms": 9.3
-    },
-    {
-      "name": "🌀 CYBERPORTAL | White Keys #392 t.me/rjsxrd",
-      "protocol": "vless",
-      "status": "ok",
-      "tcp_ms": 8.7
-    },
-    {
-      "name": "🌀 CYBERPORTAL | White Keys #374 t.me/rjsxrd",
-      "protocol": "vless",
-      "status": "ok",
-      "tcp_ms": 9.2
-    },
-    {
-      "name": "🌀 CYBERPORTAL | White Keys #413 t.me/rjsxrd",
-      "protocol": "vless",
-      "status": "ok",
-      "tcp_ms": 8.5
-    },
-    {
-      "name": "🌀 CYBERPORTAL | White Keys #192 t.me/rjsxrd",
-      "protocol": "vless",
-      "status": "failed",
-      "tcp_ms": null
-    },
-    {
-      "name": "🌀 CYBERPORTAL | White Keys #142 t.me/rjsxrd",
+      "name": "AetrisVPN White list ┃ ✅ SNI: cdn.tbank.ru ┃ 🇩🇪 Германия t.me/rjsxrd",
       "protocol": "vless",
       "status": "ok",
-      "tcp_ms": 203.2
-    },
-    {
-      "name": "🌀 CYBERPORTAL | White Keys #154 t.me/rjsxrd",
-      "protocol": "vless",
-      "status": "ok",
-      "tcp_ms": 166.4
-    },
-    {
-      "name": "🌀 CYBERPORTAL | White Keys #301 t.me/rjsxrd",
-      "protocol": "vless",
-      "status": "ok",
-      "tcp_ms": 8.6
-    },
-    {
-      "name": "🌀 CYBERPORTAL | White Keys #153 t.me/rjsxrd",
-      "protocol": "ss",
-      "status": "ok",
-      "tcp_ms": 147.2
-    },
-    {
-      "name": "🌀 CYBERPORTAL | White Keys #233 t.me/rjsxrd",
-      "protocol": "vless",
-      "status": "ok",
-      "tcp_ms": 8.6
-    },
-    {
-      "name": "🌀 CYBERPORTAL | White Keys #184 t.me/rjsxrd",
-      "protocol": "vless",
-      "status": "ok",
-      "tcp_ms": 172.1
-    },
-    {
-      "name": "🌀 CYBERPORTAL | White Keys #345 t.me/rjsxrd",
-      "protocol": "vless",
-      "status": "ok",
-      "tcp_ms": 9.6
-    },
-    {
-      "name": "🌀 CYBERPORTAL | White Keys #198 t.me/rjsxrd",
-      "protocol": "vless",
-      "status": "ok",
-      "tcp_ms": 161.1
-    },
-    {
-      "name": "🌀 CYBERPORTAL | White Keys #131 t.me/rjsxrd",
-      "protocol": "hy2",
-      "status": "unsupported",
-      "tcp_ms": null
+      "tcp_ms": 196.3
     },
     {
-      "name": "🌀 CYBERPORTAL | White Keys #120 t.me/rjsxrd",
+      "name": "AetrisVPN White list ┃ ✅ SNI: cdn.tbank.ru ┃ 🇩🇪 Германия t.me/rjsxrd",
       "protocol": "vless",
       "status": "ok",
-      "tcp_ms": 193.0
+      "tcp_ms": 204.3
     },
     {
-      "name": "🌀 CYBERPORTAL | White Keys #116 t.me/rjsxrd",
+      "name": "AetrisVPN White list ┃ ✅ SNI: cdn.tbank.ru ┃ 🇩🇪 Германия t.me/rjsxrd",
       "protocol": "vless",
       "status": "ok",
-      "tcp_ms": 231.2
+      "tcp_ms": 190.4
     },
     {
-      "name": "🌀 CYBERPORTAL | White Keys #451 t.me/rjsxrd",
+      "name": "AetrisVPN White list ┃ ✅ SNI: randomquaint.net ┃ 🇷🇺 Россия t.me/rjsxrd",
       "protocol": "vless",
       "status": "ok",
       "tcp_ms": 154.7
     },
     {
-      "name": "🌀 CYBERPORTAL | White Keys #464 t.me/rjsxrd",
+      "name": "AetrisVPN White list ┃ ✅ SNI: yandex.ru ┃ 🇸🇬 Сингапур t.me/rjsxrd",
       "protocol": "vless",
       "status": "ok",
-      "tcp_ms": 161.3
+      "tcp_ms": 143.7
     },
     {
-      "name": "🌀 CYBERPORTAL | White Keys #136 t.me/rjsxrd",
+      "name": "AetrisVPN White list ┃ ✅ SNI: www.apple.com ┃ 🇬🇧 Великобритания t.me/rjsxrd",
       "protocol": "vless",
       "status": "ok",
-      "tcp_ms": 1047.6
+      "tcp_ms": 171.7
     },
     {
-      "name": "🌀 CYBERPORTAL | White Keys #366 t.me/rjsxrd",
+      "name": "AetrisVPN White list ┃ ✅ SNI: randomquaint.net ┃ 🇷🇺 Россия t.me/rjsxrd",
       "protocol": "vless",
       "status": "ok",
-      "tcp_ms": 9.1
+      "tcp_ms": 156.9
     },
     {
-      "name": "🌀 CYBERPORTAL | White Keys #186 t.me/rjsxrd",
+      "name": "AetrisVPN White list ┃ ✅ SNI: fitindoor.net ┃ 🇷🇺 Россия t.me/rjsxrd",
       "protocol": "vless",
       "status": "ok",
-      "tcp_ms": 154.6
+      "tcp_ms": 168.8
     },
     {
-      "name": "🌀 CYBERPORTAL | White Keys #312 t.me/rjsxrd",
+      "name": "AetrisVPN White list ┃ ✅ SNI: fitindoor.net ┃ 🇷🇺 Россия t.me/rjsxrd",
       "protocol": "vless",
       "status": "ok",
-      "tcp_ms": 161.3
+      "tcp_ms": 139.5
     },
     {
-      "name": "🌀 CYBERPORTAL | White Keys #391 t.me/rjsxrd",
-      "protocol": "vless",
-      "status": "failed",
-      "tcp_ms": null
-    },
-    {
-      "name": "🌀 CYBERPORTAL | White Keys #82 t.me/rjsxrd",
+      "name": "AetrisVPN White list ┃ ✅ SNI: fitindoor.net ┃ 🇷🇺 Россия t.me/rjsxrd",
       "protocol": "vless",
       "status": "ok",
-      "tcp_ms": 146.2
+      "tcp_ms": 157.9
     },
     {
-      "name": "🌀 CYBERPORTAL | White Keys #381 t.me/rjsxrd",
+      "name": "AetrisVPN White list ┃ ✅ SNI: fitindoor.net ┃ 🇷🇺 Россия t.me/rjsxrd",
       "protocol": "vless",
       "status": "ok",
-      "tcp_ms": 9.0
+      "tcp_ms": 171.1
     },
     {
-      "name": "🌀 CYBERPORTAL | White Keys #267 t.me/rjsxrd",
+      "name": "AetrisVPN White list ┃ ✅ SNI: cdn.tbank.ru ┃ 🇩🇪 Германия t.me/rjsxrd",
       "protocol": "vless",
       "status": "ok",
-      "tcp_ms": 8.8
+      "tcp_ms": 195.6
     },
     {
-      "name": "🌀 CYBERPORTAL | White Keys #274 t.me/rjsxrd",
+      "name": "AetrisVPN White list ┃ ✅ SNI: fitindoor.net ┃ 🇷🇺 Россия t.me/rjsxrd",
       "protocol": "vless",
       "status": "ok",
-      "tcp_ms": 177.5
+      "tcp_ms": 155.3
     },
     {
-      "name": "🌀 CYBERPORTAL | White Keys #314 t.me/rjsxrd",
+      "name": "AetrisVPN White list ┃ ✅ SNI: randomquaint.net ┃ 🇷🇺 Россия t.me/rjsxrd",
       "protocol": "vless",
       "status": "ok",
-      "tcp_ms": 154.6
+      "tcp_ms": 152.6
     },
     {
-      "name": "🌀 CYBERPORTAL | White Keys #279 t.me/rjsxrd",
+      "name": "AetrisVPN White list ┃ ✅ SNI: randomquaint.net ┃ 🇷🇺 Россия t.me/rjsxrd",
       "protocol": "vless",
       "status": "ok",
-      "tcp_ms": 231.7
+      "tcp_ms": 164.0
     },
     {
-      "name": "🌀 CYBERPORTAL | White Keys #79 t.me/rjsxrd",
-      "protocol": "vless",
-      "status": "failed",
-      "tcp_ms": null
-    },
-    {
-      "name": "🌀 CYBERPORTAL | White Keys #307 t.me/rjsxrd",
+      "name": "AetrisVPN White list ┃ ✅ SNI: fitindoor.net ┃ 🇷🇺 Россия t.me/rjsxrd",
       "protocol": "vless",
       "status": "ok",
-      "tcp_ms": 161.2
+      "tcp_ms": 150.2
     },
     {
-      "name": "🌀 CYBERPORTAL | White Keys #438 t.me/rjsxrd",
+      "name": "AetrisVPN White list ┃ ✅ SNI: randomquaint.net ┃ 🇷🇺 Россия t.me/rjsxrd",
       "protocol": "vless",
       "status": "ok",
-      "tcp_ms": 180.2
+      "tcp_ms": 151.1
     },
     {
-      "name": "🌀 CYBERPORTAL | White Keys #262 t.me/rjsxrd",
+      "name": "AetrisVPN White list ┃ ✅ SNI: fitindoor.net ┃ 🇷🇺 Россия t.me/rjsxrd",
       "protocol": "vless",
       "status": "ok",
-      "tcp_ms": 171.9
+      "tcp_ms": 156.0
     },
     {
-      "name": "🌀 CYBERPORTAL | White Keys #94 t.me/rjsxrd",
+      "name": "AetrisVPN White list ┃ ✅ SNI: metrika.yandex.ru ┃ 🇪🇸 Испания t.me/rjsxrd",
       "protocol": "vless",
       "status": "ok",
-      "tcp_ms": 171.4
+      "tcp_ms": 148.1
     },
     {
-      "name": "🌀 CYBERPORTAL | White Keys #137 t.me/rjsxrd",
-      "protocol": "vless",
-      "status": "failed",
-      "tcp_ms": null
-    },
-    {
-      "name": "🌀 CYBERPORTAL | White Keys #333 t.me/rjsxrd",
+      "name": "AetrisVPN White list ┃ ✅ SNI: fitindoor.net ┃ 🇷🇺 Россия t.me/rjsxrd",
       "protocol": "vless",
       "status": "ok",
-      "tcp_ms": 180.7
+      "tcp_ms": 153.3
     },
     {
-      "name": "🌀 CYBERPORTAL | White Keys #62 t.me/rjsxrd",
-      "protocol": "vless",
-      "status": "failed",
-      "tcp_ms": null
-    },
-    {
-      "name": "🌀 CYBERPORTAL | White Keys #371 t.me/rjsxrd",
+      "name": "AetrisVPN White list ┃ ✅ SNI: metrika.yandex.ru ┃ 🇪🇸 Испания t.me/rjsxrd",
       "protocol": "vless",
       "status": "ok",
-      "tcp_ms": 228.2
+      "tcp_ms": 146.6
     },
     {
-      "name": "🌀 CYBERPORTAL | White Keys #338 t.me/rjsxrd",
-      "protocol": "vless",
-      "status": "failed",
-      "tcp_ms": null
-    },
-    {
-      "name": "🌀 CYBERPORTAL | White Keys #123 t.me/rjsxrd",
-      "protocol": "vless",
-      "status": "failed",
-      "tcp_ms": null
-    },
-    {
-      "name": "🌀 CYBERPORTAL | White Keys #337 t.me/rjsxrd",
-      "protocol": "vless",
-      "status": "failed",
-      "tcp_ms": null
-    },
-    {
-      "name": "🌀 CYBERPORTAL | White Keys #429 t.me/rjsxrd",
+      "name": "AetrisVPN White list ┃ ✅ SNI: fitindoor.net ┃ 🇷🇺 Россия t.me/rjsxrd",
       "protocol": "vless",
       "status": "ok",
-      "tcp_ms": 109.9
+      "tcp_ms": 150.0
     },
     {
-      "name": "🌀 CYBERPORTAL | White Keys #347 t.me/rjsxrd",
-      "protocol": "vless",
-      "status": "failed",
-      "tcp_ms": null
-    },
-    {
-      "name": "🌀 CYBERPORTAL | White Keys #86 t.me/rjsxrd",
-      "protocol": "trojan",
-      "status": "ok",
-      "tcp_ms": 195.3
-    },
-    {
-      "name": "🌀 CYBERPORTAL | White Keys #193 t.me/rjsxrd",
+      "name": "AetrisVPN White list ┃ ✅ SNI: fitindoor.net ┃ 🇷🇺 Россия t.me/rjsxrd",
       "protocol": "vless",
       "status": "ok",
-      "tcp_ms": 132.5
+      "tcp_ms": 149.8
     },
     {
-      "name": "🌀 CYBERPORTAL | White Keys #297 t.me/rjsxrd",
+      "name": "AetrisVPN White list ┃ ✅ SNI: cdn.tbank.ru ┃ 🇩🇪 Германия t.me/rjsxrd",
       "protocol": "vless",
       "status": "ok",
-      "tcp_ms": 160.6
+      "tcp_ms": 196.1
     },
     {
-      "name": "🌀 CYBERPORTAL | White Keys #70 t.me/rjsxrd",
+      "name": "AetrisVPN White list ┃ ✅ SNI: fitindoor.net ┃ 🇷🇺 Россия t.me/rjsxrd",
       "protocol": "vless",
       "status": "ok",
-      "tcp_ms": 224.5
+      "tcp_ms": 148.4
     },
     {
-      "name": "🌀 CYBERPORTAL | White Keys #461 t.me/rjsxrd",
-      "protocol": "vless",
-      "status": "failed",
-      "tcp_ms": null
-    },
-    {
-      "name": "🌀 CYBERPORTAL | White Keys #58 t.me/rjsxrd",
-      "protocol": "vless",
-      "status": "failed",
-      "tcp_ms": null
-    },
-    {
-      "name": "🌀 CYBERPORTAL | White Keys #340 t.me/rjsxrd",
+      "name": "AetrisVPN White list ┃ ✅ SNI: cdn.tbank.ru ┃ 🇩🇪 Германия t.me/rjsxrd",
       "protocol": "vless",
       "status": "ok",
-      "tcp_ms": 135.0
+      "tcp_ms": 198.4
     },
     {
-      "name": "🌀 CYBERPORTAL | White Keys #321 t.me/rjsxrd",
-      "protocol": "vless",
-      "status": "failed",
-      "tcp_ms": null
-    },
-    {
-      "name": "🌀 CYBERPORTAL | White Keys #171 t.me/rjsxrd",
-      "protocol": "vless",
-      "status": "failed",
-      "tcp_ms": null
-    },
-    {
-      "name": "🌀 CYBERPORTAL | White Keys #241 t.me/rjsxrd",
+      "name": "AetrisVPN White list ┃ ✅ SNI: fitindoor.net ┃ 🇷🇺 Россия t.me/rjsxrd",
       "protocol": "vless",
       "status": "ok",
-      "tcp_ms": 223.9
+      "tcp_ms": 155.9
     },
     {
-      "name": "🌀 CYBERPORTAL | White Keys #69 t.me/rjsxrd",
-      "protocol": "vless",
-      "status": "failed",
-      "tcp_ms": null
-    },
-    {
-      "name": "🌀 CYBERPORTAL | White Keys #107 t.me/rjsxrd",
+      "name": "AetrisVPN White list ┃ ✅ SNI: fitindoor.net ┃ 🇷🇺 Россия t.me/rjsxrd",
       "protocol": "vless",
       "status": "ok",
-      "tcp_ms": 589.0
+      "tcp_ms": 147.3
     },
     {
-      "name": "🌀 CYBERPORTAL | White Keys #244 t.me/rjsxrd",
+      "name": "AetrisVPN White list ┃ ✅ SNI: metrika.yandex.ru ┃ 🇸🇪 Швеция t.me/rjsxrd",
       "protocol": "vless",
       "status": "ok",
-      "tcp_ms": 230.2
+      "tcp_ms": 131.8
     },
     {
-      "name": "🌀 CYBERPORTAL | White Keys #106 t.me/rjsxrd",
+      "name": "AetrisVPN White list ┃ ✅ SNI: fitindoor.net ┃ 🇷🇺 Россия t.me/rjsxrd",
       "protocol": "vless",
       "status": "ok",
-      "tcp_ms": 488.3
+      "tcp_ms": 144.2
     },
     {
-      "name": "🌀 CYBERPORTAL | White Keys #173 t.me/rjsxrd",
+      "name": "AetrisVPN White list ┃ ✅ SNI: fitindoor.net ┃ 🇷🇺 Россия t.me/rjsxrd",
       "protocol": "vless",
       "status": "ok",
-      "tcp_ms": 214.4
+      "tcp_ms": 143.9
     },
     {
-      "name": "🌀 CYBERPORTAL | White Keys #125 t.me/rjsxrd",
+      "name": "AetrisVPN White list ┃ ✅ SNI: metrika.yandex.ru ┃ 🇺🇸 США t.me/rjsxrd",
       "protocol": "vless",
       "status": "ok",
-      "tcp_ms": 145.3
+      "tcp_ms": 124.1
     },
     {
-      "name": "🌀 CYBERPORTAL | White Keys #375 t.me/rjsxrd",
+      "name": "AetrisVPN White list ┃ ✅ SNI: metrika.yandex.ru ┃ 🇩🇪 Германия t.me/rjsxrd",
       "protocol": "vless",
       "status": "ok",
-      "tcp_ms": 153.8
+      "tcp_ms": 283.3
     },
     {
-      "name": "🌀 CYBERPORTAL | White Keys #181 t.me/rjsxrd",
+      "name": "AetrisVPN White list ┃ ✅ SNI: metrika.yandex.ru ┃ 🇺🇸 США t.me/rjsxrd",
       "protocol": "vless",
       "status": "ok",
-      "tcp_ms": 186.2
+      "tcp_ms": 116.7
     },
     {
-      "name": "🌀 CYBERPORTAL | White Keys #214 t.me/rjsxrd",
+      "name": "AetrisVPN White list ┃ ✅ SNI: metrika.yandex.ru ┃ 🇩🇪 Германия t.me/rjsxrd",
       "protocol": "vless",
       "status": "ok",
-      "tcp_ms": 221.2
-    },
-    {
-      "name": "🌀 CYBERPORTAL | White Keys #249 t.me/rjsxrd",
-      "protocol": "vless",
-      "status": "ok",
-      "tcp_ms": 161.7
-    },
-    {
-      "name": "🌀 CYBERPORTAL | White Keys #89 t.me/rjsxrd",
-      "protocol": "trojan",
-      "status": "ok",
-      "tcp_ms": 145.1
-    },
-    {
-      "name": "🌀 CYBERPORTAL | White Keys #134 t.me/rjsxrd",
-      "protocol": "vless",
-      "status": "ok",
-      "tcp_ms": 230.5
-    },
-    {
-      "name": "🌀 CYBERPORTAL | White Keys #455 t.me/rjsxrd",
-      "protocol": "vless",
-      "status": "ok",
-      "tcp_ms": 228.3
-    },
-    {
-      "name": "🌀 CYBERPORTAL | White Keys #421 t.me/rjsxrd",
-      "protocol": "vless",
-      "status": "ok",
-      "tcp_ms": 223.0
+      "tcp_ms": 279.8
     }
   ]
 }
