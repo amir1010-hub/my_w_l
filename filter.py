@@ -145,7 +145,7 @@ def main() -> int:
         if not selected and not args.allow_empty:
             raise ValueError("No matching names; existing file left unchanged")
 
-        previous = previous_count(args.output)
+        previous = len(filter_links(args.output.read_text(encoding="utf-8-sig"))[0]) if args.output.is_file() else 0
         if args.ping_mode == "tcp":
             results = check_all(selected, args.timeout, args.attempts, args.workers)
             chosen, summary = build_live_set(selected, results, previous)
