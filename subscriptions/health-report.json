@@ -1,422 +1,536 @@
 {
-  "checked_at_utc": "2026-10-19T23:41:03+00:00",
+  "checked_at_utc": "2026-10-20T04:50:00+00:00",
   "source": "https://raw.githubusercontent.com/whoahaow/rjsxrd/main/githubmirror/bypass/bypass-all.txt",
   "probe": "TCP connect",
-  "upstream_links": 1347,
-  "ok": 68,
+  "upstream_links": 1397,
+  "ok": 87,
   "failed": 0,
   "unsupported": 0,
   "unsafe": 0,
-  "input": 68,
-  "published": 68,
+  "input": 87,
+  "published": 87,
   "entries": [
     {
-      "name": "AetrisVPN White list ┃ ✅ SNI: yandex.ru ┃ 🇫🇮 Финляндия t.me/rjsxrd",
-      "protocol": "vless",
-      "status": "ok",
-      "tcp_ms": 176.3
-    },
-    {
-      "name": "AetrisVPN White list ┃ ✅ SNI: yandex.ru ┃ 🇸🇬 Сингапур t.me/rjsxrd",
-      "protocol": "vless",
-      "status": "ok",
-      "tcp_ms": 162.4
-    },
-    {
-      "name": "AetrisVPN White list ┃ ✅ SNI: fitindoor.net ┃ 🇷🇺 Россия t.me/rjsxrd",
-      "protocol": "vless",
-      "status": "ok",
-      "tcp_ms": 165.7
-    },
-    {
-      "name": "AetrisVPN White list ┃ ✅ SNI: www.yandex.ru ┃ 🇷🇺 Россия t.me/rjsxrd",
-      "protocol": "vless",
-      "status": "ok",
-      "tcp_ms": 168.9
-    },
-    {
-      "name": "AetrisVPN White list ┃ ✅ SNI: vedomosti.ru ┃ 🇳🇱 Нидерланды t.me/rjsxrd",
-      "protocol": "vless",
-      "status": "ok",
-      "tcp_ms": 129.9
-    },
-    {
-      "name": "AetrisVPN White list ┃ ✅ SNI: fitindoor.net ┃ 🇷🇺 Россия t.me/rjsxrd",
-      "protocol": "vless",
-      "status": "ok",
-      "tcp_ms": 166.0
-    },
-    {
-      "name": "AetrisVPN White list ┃ ✅ SNI: fitindoor.net ┃ 🇷🇺 Россия t.me/rjsxrd",
-      "protocol": "vless",
-      "status": "ok",
-      "tcp_ms": 164.2
-    },
-    {
-      "name": "AetrisVPN White list ┃ ✅ SNI: fitindoor.net ┃ 🇷🇺 Россия t.me/rjsxrd",
-      "protocol": "vless",
-      "status": "ok",
-      "tcp_ms": 164.5
-    },
-    {
-      "name": "AetrisVPN White list ┃ ✅ SNI: yandex.ru ┃ 🇷🇺 Россия t.me/rjsxrd",
-      "protocol": "vless",
-      "status": "ok",
-      "tcp_ms": 171.7
-    },
-    {
-      "name": "AetrisVPN White list ┃ ✅ SNI: yandex.ru ┃ 🇷🇺 Россия t.me/rjsxrd",
-      "protocol": "vless",
-      "status": "ok",
-      "tcp_ms": 169.5
-    },
-    {
-      "name": "AetrisVPN White list ┃ ✅ SNI: fitindoor.net ┃ 🇷🇺 Россия t.me/rjsxrd",
-      "protocol": "vless",
-      "status": "ok",
-      "tcp_ms": 170.5
-    },
-    {
       "name": "AetrisVPN White list ┃ ✅ SNI: randomquaint.net ┃ 🇷🇺 Россия t.me/rjsxrd",
       "protocol": "vless",
       "status": "ok",
-      "tcp_ms": 164.2
-    },
-    {
-      "name": "AetrisVPN White list ┃ 1️⃣ IP: 109.120.133.26 (CIDR) ┃ 🇫🇷 Франция t.me/rjsxrd",
-      "protocol": "vless",
-      "status": "ok",
-      "tcp_ms": 157.4
-    },
-    {
-      "name": "AetrisVPN White list ┃ ✅ SNI: fitindoor.net ┃ 🇷🇺 Россия t.me/rjsxrd",
-      "protocol": "vless",
-      "status": "ok",
-      "tcp_ms": 164.7
-    },
-    {
-      "name": "AetrisVPN White list ┃ ✅ SNI: fitindoor.net ┃ 🇷🇺 Россия t.me/rjsxrd",
-      "protocol": "vless",
-      "status": "ok",
-      "tcp_ms": 172.4
-    },
-    {
-      "name": "AetrisVPN White list ┃ ✅ SNI: fitindoor.net ┃ 🇷🇺 Россия t.me/rjsxrd",
-      "protocol": "vless",
-      "status": "ok",
-      "tcp_ms": 171.3
-    },
-    {
-      "name": "AetrisVPN White list ┃ 1️⃣ IP: 109.120.133.26 (CIDR) ┃ 🇸🇪 Швеция t.me/rjsxrd",
-      "protocol": "vless",
-      "status": "ok",
-      "tcp_ms": 159.6
-    },
-    {
-      "name": "AetrisVPN White list ┃ ✅ SNI: ads.x5.ru ┃ 🇧🇾 Беларусь t.me/rjsxrd",
-      "protocol": "vless",
-      "status": "ok",
-      "tcp_ms": 158.3
-    },
-    {
-      "name": "AetrisVPN White list ┃ 1️⃣ IP: 109.120.133.26 (CIDR) ┃ 🇪🇪 Эстония t.me/rjsxrd",
-      "protocol": "vless",
-      "status": "ok",
-      "tcp_ms": 167.0
-    },
-    {
-      "name": "AetrisVPN White list ┃ ✅ SNI: randomquaint.net ┃ 🇷🇺 Россия t.me/rjsxrd",
-      "protocol": "vless",
-      "status": "ok",
-      "tcp_ms": 164.5
-    },
-    {
-      "name": "AetrisVPN White list ┃ ✅ SNI: fitindoor.net ┃ 🇷🇺 Россия t.me/rjsxrd",
-      "protocol": "vless",
-      "status": "ok",
-      "tcp_ms": 164.2
-    },
-    {
-      "name": "AetrisVPN White list ┃ ✅ SNI: metrika.yandex.ru ┃ 🇪🇸 Испания t.me/rjsxrd",
-      "protocol": "vless",
-      "status": "ok",
-      "tcp_ms": 141.3
-    },
-    {
-      "name": "AetrisVPN White list ┃ ✅ SNI: metrika.yandex.ru ┃ 🇪🇸 Испания t.me/rjsxrd",
-      "protocol": "vless",
-      "status": "ok",
-      "tcp_ms": 140.0
+      "tcp_ms": 122.1
     },
     {
       "name": "AetrisVPN White list ┃ ✅ SNI: metrika.yandex.ru ┃ 🇩🇪 Германия t.me/rjsxrd",
       "protocol": "vless",
       "status": "ok",
-      "tcp_ms": 135.0
+      "tcp_ms": 127.2
+    },
+    {
+      "name": "AetrisVPN White list ┃ ✅ SNI: metrika.yandex.ru ┃ 🇺🇸 США t.me/rjsxrd",
+      "protocol": "vless",
+      "status": "ok",
+      "tcp_ms": 105.0
+    },
+    {
+      "name": "AetrisVPN White list ┃ ✅ SNI: metrika.yandex.ru ┃ 🇩🇪 Германия t.me/rjsxrd",
+      "protocol": "vless",
+      "status": "ok",
+      "tcp_ms": 117.6
+    },
+    {
+      "name": "AetrisVPN White list ┃ ✅ SNI: metrika.yandex.ru ┃ 🇫🇮 Финляндия t.me/rjsxrd",
+      "protocol": "vless",
+      "status": "ok",
+      "tcp_ms": 99.1
+    },
+    {
+      "name": "AetrisVPN White list ┃ ✅ SNI: metrika.yandex.ru ┃ 🇺🇸 США t.me/rjsxrd",
+      "protocol": "vless",
+      "status": "ok",
+      "tcp_ms": 104.6
+    },
+    {
+      "name": "AetrisVPN White list ┃ ✅ SNI: metrika.yandex.ru ┃ 🇺🇸 США t.me/rjsxrd",
+      "protocol": "vless",
+      "status": "ok",
+      "tcp_ms": 107.3
+    },
+    {
+      "name": "AetrisVPN White list ┃ ✅ SNI: metrika.yandex.ru ┃ 🇫🇮 Финляндия t.me/rjsxrd",
+      "protocol": "vless",
+      "status": "ok",
+      "tcp_ms": 106.4
+    },
+    {
+      "name": "AetrisVPN White list ┃ ✅ SNI: metrika.yandex.ru ┃ 🇺🇸 США t.me/rjsxrd",
+      "protocol": "vless",
+      "status": "ok",
+      "tcp_ms": 99.1
     },
     {
       "name": "AetrisVPN White list ┃ ✅ SNI: fitindoor.net ┃ 🇷🇺 Россия t.me/rjsxrd",
       "protocol": "vless",
       "status": "ok",
-      "tcp_ms": 165.6
+      "tcp_ms": 121.1
+    },
+    {
+      "name": "AetrisVPN White list ┃ ✅ SNI: metrika.yandex.ru ┃ 🇩🇪 Германия t.me/rjsxrd",
+      "protocol": "vless",
+      "status": "ok",
+      "tcp_ms": 119.9
+    },
+    {
+      "name": "AetrisVPN White list ┃ ✅ SNI: metrika.yandex.ru ┃ 🇩🇪 Германия t.me/rjsxrd",
+      "protocol": "vless",
+      "status": "ok",
+      "tcp_ms": 117.6
+    },
+    {
+      "name": "AetrisVPN White list ┃ ✅ SNI: randomquaint.net ┃ 🇷🇺 Россия t.me/rjsxrd",
+      "protocol": "vless",
+      "status": "ok",
+      "tcp_ms": 129.7
+    },
+    {
+      "name": "AetrisVPN White list ┃ ✅ SNI: fitindoor.net ┃ 🇷🇺 Россия t.me/rjsxrd",
+      "protocol": "vless",
+      "status": "ok",
+      "tcp_ms": 128.5
+    },
+    {
+      "name": "AetrisVPN White list ┃ ✅ SNI: fitindoor.net ┃ 🇷🇺 Россия t.me/rjsxrd",
+      "protocol": "vless",
+      "status": "ok",
+      "tcp_ms": 122.3
+    },
+    {
+      "name": "AetrisVPN White list ┃ ✅ SNI: fitindoor.net ┃ 🇷🇺 Россия t.me/rjsxrd",
+      "protocol": "vless",
+      "status": "ok",
+      "tcp_ms": 121.6
+    },
+    {
+      "name": "AetrisVPN White list ┃ ✅ SNI: fitindoor.net ┃ 🇷🇺 Россия t.me/rjsxrd",
+      "protocol": "vless",
+      "status": "ok",
+      "tcp_ms": 128.3
+    },
+    {
+      "name": "AetrisVPN White list ┃ ✅ SNI: www.yandex.ru ┃ 🇩🇪 Германия t.me/rjsxrd",
+      "protocol": "vless",
+      "status": "ok",
+      "tcp_ms": 123.7
+    },
+    {
+      "name": "AetrisVPN White list ┃ ✅ SNI: fitindoor.net ┃ 🇷🇺 Россия t.me/rjsxrd",
+      "protocol": "vless",
+      "status": "ok",
+      "tcp_ms": 124.1
+    },
+    {
+      "name": "AetrisVPN White list ┃ ✅ SNI: fitindoor.net ┃ 🇷🇺 Россия t.me/rjsxrd",
+      "protocol": "vless",
+      "status": "ok",
+      "tcp_ms": 120.5
+    },
+    {
+      "name": "AetrisVPN White list ┃ ✅ SNI: ads.x5.ru ┃ 🇷🇺 Россия t.me/rjsxrd",
+      "protocol": "vless",
+      "status": "ok",
+      "tcp_ms": 147.1
+    },
+    {
+      "name": "AetrisVPN White list ┃ ✅ SNI: fitindoor.net ┃ 🇷🇺 Россия t.me/rjsxrd",
+      "protocol": "vless",
+      "status": "ok",
+      "tcp_ms": 128.5
+    },
+    {
+      "name": "AetrisVPN White list ┃ ✅ SNI: ads.x5.ru ┃ 🇷🇺 Россия t.me/rjsxrd",
+      "protocol": "vless",
+      "status": "ok",
+      "tcp_ms": 230.6
+    },
+    {
+      "name": "AetrisVPN White list ┃ ✅ SNI: www.rutube.ru ┃ 🇳🇱 Нидерланды t.me/rjsxrd",
+      "protocol": "vless",
+      "status": "ok",
+      "tcp_ms": 86.4
+    },
+    {
+      "name": "AetrisVPN White list ┃ ✅ SNI: randomquaint.net ┃ 🇷🇺 Россия t.me/rjsxrd",
+      "protocol": "vless",
+      "status": "ok",
+      "tcp_ms": 121.1
+    },
+    {
+      "name": "AetrisVPN White list ┃ ✅ SNI: fitindoor.net ┃ 🇷🇺 Россия t.me/rjsxrd",
+      "protocol": "vless",
+      "status": "ok",
+      "tcp_ms": 121.1
+    },
+    {
+      "name": "AetrisVPN White list ┃ ✅ SNI: randomquaint.net ┃ 🇷🇺 Россия t.me/rjsxrd",
+      "protocol": "vless",
+      "status": "ok",
+      "tcp_ms": 124.0
+    },
+    {
+      "name": "AetrisVPN White list ┃ ✅ SNI: ads.x5.ru ┃ 🇷🇺 Россия t.me/rjsxrd",
+      "protocol": "vless",
+      "status": "ok",
+      "tcp_ms": 152.0
+    },
+    {
+      "name": "AetrisVPN White list ┃ ✅ SNI: fitindoor.net ┃ 🇷🇺 Россия t.me/rjsxrd",
+      "protocol": "vless",
+      "status": "ok",
+      "tcp_ms": 120.9
+    },
+    {
+      "name": "AetrisVPN White list ┃ ✅ SNI: randomquaint.net ┃ 🇷🇺 Россия t.me/rjsxrd",
+      "protocol": "vless",
+      "status": "ok",
+      "tcp_ms": 121.2
+    },
+    {
+      "name": "AetrisVPN White list ┃ ✅ SNI: fitindoor.net ┃ 🇷🇺 Россия t.me/rjsxrd",
+      "protocol": "vless",
+      "status": "ok",
+      "tcp_ms": 128.4
+    },
+    {
+      "name": "AetrisVPN White list ┃ ✅ SNI: fitindoor.net ┃ 🇷🇺 Россия t.me/rjsxrd",
+      "protocol": "vless",
+      "status": "ok",
+      "tcp_ms": 121.0
+    },
+    {
+      "name": "AetrisVPN White list ┃ ✅ SNI: randomquaint.net ┃ 🇷🇺 Россия t.me/rjsxrd",
+      "protocol": "vless",
+      "status": "ok",
+      "tcp_ms": 122.0
+    },
+    {
+      "name": "AetrisVPN White list ┃ ✅ SNI: randomquaint.net ┃ 🇷🇺 Россия t.me/rjsxrd",
+      "protocol": "vless",
+      "status": "ok",
+      "tcp_ms": 120.7
+    },
+    {
+      "name": "AetrisVPN White list ┃ ✅ SNI: randomquaint.net ┃ 🇷🇺 Россия t.me/rjsxrd",
+      "protocol": "vless",
+      "status": "ok",
+      "tcp_ms": 134.7
+    },
+    {
+      "name": "AetrisVPN White list ┃ ✅ SNI: randomquaint.net ┃ 🇷🇺 Россия t.me/rjsxrd",
+      "protocol": "vless",
+      "status": "ok",
+      "tcp_ms": 127.6
+    },
+    {
+      "name": "AetrisVPN White list ┃ ✅ SNI: fitindoor.net ┃ 🇷🇺 Россия t.me/rjsxrd",
+      "protocol": "vless",
+      "status": "ok",
+      "tcp_ms": 120.8
+    },
+    {
+      "name": "AetrisVPN White list ┃ ✅ SNI: randomquaint.net ┃ 🇷🇺 Россия t.me/rjsxrd",
+      "protocol": "vless",
+      "status": "ok",
+      "tcp_ms": 122.8
+    },
+    {
+      "name": "AetrisVPN White list ┃ ✅ SNI: fitindoor.net ┃ 🇷🇺 Россия t.me/rjsxrd",
+      "protocol": "vless",
+      "status": "ok",
+      "tcp_ms": 123.0
+    },
+    {
+      "name": "AetrisVPN White list ┃ ✅ SNI: cdn.tbank.ru ┃ 🇩🇪 Германия t.me/rjsxrd",
+      "protocol": "vless",
+      "status": "ok",
+      "tcp_ms": 181.1
+    },
+    {
+      "name": "AetrisVPN White list ┃ ✅ SNI: randomquaint.net ┃ 🇷🇺 Россия t.me/rjsxrd",
+      "protocol": "vless",
+      "status": "ok",
+      "tcp_ms": 128.1
+    },
+    {
+      "name": "AetrisVPN White list ┃ ✅ SNI: fitindoor.net ┃ 🇷🇺 Россия t.me/rjsxrd",
+      "protocol": "vless",
+      "status": "ok",
+      "tcp_ms": 122.4
+    },
+    {
+      "name": "AetrisVPN White list ┃ ✅ SNI: randomquaint.net ┃ 🇷🇺 Россия t.me/rjsxrd",
+      "protocol": "vless",
+      "status": "ok",
+      "tcp_ms": 128.1
+    },
+    {
+      "name": "AetrisVPN White list ┃ ✅ SNI: fitindoor.net ┃ 🇷🇺 Россия t.me/rjsxrd",
+      "protocol": "vless",
+      "status": "ok",
+      "tcp_ms": 129.2
+    },
+    {
+      "name": "AetrisVPN White list ┃ ✅ SNI: fitindoor.net ┃ 🇷🇺 Россия t.me/rjsxrd",
+      "protocol": "vless",
+      "status": "ok",
+      "tcp_ms": 128.6
+    },
+    {
+      "name": "AetrisVPN White list ┃ ✅ SNI: fitindoor.net ┃ 🇷🇺 Россия t.me/rjsxrd",
+      "protocol": "vless",
+      "status": "ok",
+      "tcp_ms": 128.3
+    },
+    {
+      "name": "AetrisVPN White list ┃ ✅ SNI: randomquaint.net ┃ 🇷🇺 Россия t.me/rjsxrd",
+      "protocol": "vless",
+      "status": "ok",
+      "tcp_ms": 129.2
+    },
+    {
+      "name": "AetrisVPN White list ┃ ✅ SNI: cdn.tbank.ru ┃ 🇩🇪 Германия t.me/rjsxrd",
+      "protocol": "vless",
+      "status": "ok",
+      "tcp_ms": 182.0
+    },
+    {
+      "name": "AetrisVPN White list ┃ ✅ SNI: fitindoor.net ┃ 🇷🇺 Россия t.me/rjsxrd",
+      "protocol": "vless",
+      "status": "ok",
+      "tcp_ms": 123.2
+    },
+    {
+      "name": "AetrisVPN White list ┃ ✅ SNI: cdn.tbank.ru ┃ 🇩🇪 Германия t.me/rjsxrd",
+      "protocol": "vless",
+      "status": "ok",
+      "tcp_ms": 183.9
+    },
+    {
+      "name": "AetrisVPN White list ┃ ✅ SNI: fitindoor.net ┃ 🇷🇺 Россия t.me/rjsxrd",
+      "protocol": "vless",
+      "status": "ok",
+      "tcp_ms": 121.4
+    },
+    {
+      "name": "AetrisVPN White list ┃ ✅ SNI: cdn.tbank.ru ┃ 🇮🇹 Италия t.me/rjsxrd",
+      "protocol": "vless",
+      "status": "ok",
+      "tcp_ms": 181.4
+    },
+    {
+      "name": "AetrisVPN White list ┃ ✅ SNI: fitindoor.net ┃ 🇷🇺 Россия t.me/rjsxrd",
+      "protocol": "vless",
+      "status": "ok",
+      "tcp_ms": 129.6
+    },
+    {
+      "name": "AetrisVPN White list ┃ ✅ SNI: fitindoor.net ┃ 🇷🇺 Россия t.me/rjsxrd",
+      "protocol": "vless",
+      "status": "ok",
+      "tcp_ms": 123.9
+    },
+    {
+      "name": "AetrisVPN White list ┃ ✅ SNI: fitindoor.net ┃ 🇷🇺 Россия t.me/rjsxrd",
+      "protocol": "vless",
+      "status": "ok",
+      "tcp_ms": 121.1
+    },
+    {
+      "name": "AetrisVPN White list ┃ ✅ SNI: randomquaint.net ┃ 🇷🇺 Россия t.me/rjsxrd",
+      "protocol": "vless",
+      "status": "ok",
+      "tcp_ms": 129.4
+    },
+    {
+      "name": "AetrisVPN White list ┃ ✅ SNI: fitindoor.net ┃ 🇷🇺 Россия t.me/rjsxrd",
+      "protocol": "vless",
+      "status": "ok",
+      "tcp_ms": 128.9
+    },
+    {
+      "name": "AetrisVPN White list ┃ ✅ SNI: fitindoor.net ┃ 🇷🇺 Россия t.me/rjsxrd",
+      "protocol": "vless",
+      "status": "ok",
+      "tcp_ms": 120.9
+    },
+    {
+      "name": "AetrisVPN White list ┃ ✅ SNI: randomquaint.net ┃ 🇷🇺 Россия t.me/rjsxrd",
+      "protocol": "vless",
+      "status": "ok",
+      "tcp_ms": 121.1
+    },
+    {
+      "name": "AetrisVPN White list ┃ ✅ SNI: fitindoor.net ┃ 🇷🇺 Россия t.me/rjsxrd",
+      "protocol": "vless",
+      "status": "ok",
+      "tcp_ms": 130.0
+    },
+    {
+      "name": "AetrisVPN White list ┃ ✅ SNI: fitindoor.net ┃ 🇷🇺 Россия t.me/rjsxrd",
+      "protocol": "vless",
+      "status": "ok",
+      "tcp_ms": 121.1
+    },
+    {
+      "name": "AetrisVPN White list ┃ ✅ SNI: fitindoor.net ┃ 🇷🇺 Россия t.me/rjsxrd",
+      "protocol": "vless",
+      "status": "ok",
+      "tcp_ms": 121.3
+    },
+    {
+      "name": "AetrisVPN White list ┃ ✅ SNI: fitindoor.net ┃ 🇷🇺 Россия t.me/rjsxrd",
+      "protocol": "vless",
+      "status": "ok",
+      "tcp_ms": 130.2
+    },
+    {
+      "name": "AetrisVPN White list ┃ ✅ SNI: randomquaint.net ┃ 🇷🇺 Россия t.me/rjsxrd",
+      "protocol": "vless",
+      "status": "ok",
+      "tcp_ms": 123.1
+    },
+    {
+      "name": "AetrisVPN White list ┃ ✅ SNI: metrika.yandex.ru ┃ 🇩🇪 Германия t.me/rjsxrd",
+      "protocol": "vless",
+      "status": "ok",
+      "tcp_ms": 209.8
+    },
+    {
+      "name": "AetrisVPN White list ┃ ✅ SNI: metrika.yandex.ru ┃ 🇩🇪 Германия t.me/rjsxrd",
+      "protocol": "vless",
+      "status": "ok",
+      "tcp_ms": 207.2
+    },
+    {
+      "name": "AetrisVPN White list ┃ ✅ SNI: fitindoor.net ┃ 🇷🇺 Россия t.me/rjsxrd",
+      "protocol": "vless",
+      "status": "ok",
+      "tcp_ms": 121.3
+    },
+    {
+      "name": "AetrisVPN White list ┃ ✅ SNI: fitindoor.net ┃ 🇷🇺 Россия t.me/rjsxrd",
+      "protocol": "vless",
+      "status": "ok",
+      "tcp_ms": 122.8
+    },
+    {
+      "name": "AetrisVPN White list ┃ ✅ SNI: metrika.yandex.ru ┃ 🇺🇸 США t.me/rjsxrd",
+      "protocol": "vless",
+      "status": "ok",
+      "tcp_ms": 206.6
+    },
+    {
+      "name": "AetrisVPN White list ┃ ✅ SNI: metrika.yandex.ru ┃ 🇺🇸 США t.me/rjsxrd",
+      "protocol": "vless",
+      "status": "ok",
+      "tcp_ms": 206.7
+    },
+    {
+      "name": "AetrisVPN White list ┃ ✅ SNI: fitindoor.net ┃ 🇷🇺 Россия t.me/rjsxrd",
+      "protocol": "vless",
+      "status": "ok",
+      "tcp_ms": 123.5
+    },
+    {
+      "name": "AetrisVPN White list ┃ ✅ SNI: randomquaint.net ┃ 🇷🇺 Россия t.me/rjsxrd",
+      "protocol": "vless",
+      "status": "ok",
+      "tcp_ms": 120.9
+    },
+    {
+      "name": "AetrisVPN White list ┃ ✅ SNI: fitindoor.net ┃ 🇷🇺 Россия t.me/rjsxrd",
+      "protocol": "vless",
+      "status": "ok",
+      "tcp_ms": 128.4
+    },
+    {
+      "name": "AetrisVPN White list ┃ ✅ SNI: fitindoor.net ┃ 🇷🇺 Россия t.me/rjsxrd",
+      "protocol": "vless",
+      "status": "ok",
+      "tcp_ms": 124.0
+    },
+    {
+      "name": "AetrisVPN White list ┃ ✅ SNI: fitindoor.net ┃ 🇷🇺 Россия t.me/rjsxrd",
+      "protocol": "vless",
+      "status": "ok",
+      "tcp_ms": 123.4
+    },
+    {
+      "name": "AetrisVPN White list ┃ ✅ SNI: fitindoor.net ┃ 🇷🇺 Россия t.me/rjsxrd",
+      "protocol": "vless",
+      "status": "ok",
+      "tcp_ms": 122.0
+    },
+    {
+      "name": "AetrisVPN White list ┃ ✅ SNI: fitindoor.net ┃ 🇷🇺 Россия t.me/rjsxrd",
+      "protocol": "vless",
+      "status": "ok",
+      "tcp_ms": 128.6
+    },
+    {
+      "name": "AetrisVPN White list ┃ ✅ SNI: fitindoor.net ┃ 🇷🇺 Россия t.me/rjsxrd",
+      "protocol": "vless",
+      "status": "ok",
+      "tcp_ms": 120.9
+    },
+    {
+      "name": "AetrisVPN White list ┃ ✅ SNI: fitindoor.net ┃ 🇷🇺 Россия t.me/rjsxrd",
+      "protocol": "vless",
+      "status": "ok",
+      "tcp_ms": 128.6
     },
     {
       "name": "AetrisVPN White list ┃ ✅ SNI: metrika.yandex.ru ┃ 🇪🇸 Испания t.me/rjsxrd",
       "protocol": "vless",
       "status": "ok",
-      "tcp_ms": 140.1
+      "tcp_ms": 91.1
     },
     {
-      "name": "AetrisVPN White list ┃ ✅ SNI: fitindoor.net ┃ 🇷🇺 Россия t.me/rjsxrd",
+      "name": "AetrisVPN White list ┃ ✅ SNI: metrika.yandex.ru ┃ 🇪🇸 Испания t.me/rjsxrd",
       "protocol": "vless",
       "status": "ok",
-      "tcp_ms": 164.2
+      "tcp_ms": 91.3
     },
     {
-      "name": "AetrisVPN White list ┃ ✅ SNI: fitindoor.net ┃ 🇷🇺 Россия t.me/rjsxrd",
+      "name": "AetrisVPN White list ┃ ✅ SNI: travel.yandex.ru ┃ 🇫🇮 Финляндия t.me/rjsxrd",
       "protocol": "vless",
       "status": "ok",
-      "tcp_ms": 163.7
+      "tcp_ms": 98.1
     },
     {
-      "name": "AetrisVPN White list ┃ ✅ SNI: fitindoor.net ┃ 🇷🇺 Россия t.me/rjsxrd",
+      "name": "AetrisVPN White list ┃ ✅ SNI: metrika.yandex.ru ┃ 🇪🇸 Испания t.me/rjsxrd",
       "protocol": "vless",
       "status": "ok",
-      "tcp_ms": 172.0
+      "tcp_ms": 91.2
     },
     {
-      "name": "AetrisVPN White list ┃ ✅ SNI: metrika.yandex.ru ┃ 🇩🇪 Германия t.me/rjsxrd",
+      "name": "AetrisVPN White list ┃ ✅ SNI: dzen.ru ┃ 🇧🇬 Болгария t.me/rjsxrd",
       "protocol": "vless",
       "status": "ok",
-      "tcp_ms": 296.1
-    },
-    {
-      "name": "AetrisVPN White list ┃ ✅ SNI: randomquaint.net ┃ 🇷🇺 Россия t.me/rjsxrd",
-      "protocol": "vless",
-      "status": "ok",
-      "tcp_ms": 166.8
-    },
-    {
-      "name": "AetrisVPN White list ┃ ✅ SNI: fitindoor.net ┃ 🇷🇺 Россия t.me/rjsxrd",
-      "protocol": "vless",
-      "status": "ok",
-      "tcp_ms": 166.0
-    },
-    {
-      "name": "AetrisVPN White list ┃ ✅ SNI: fitindoor.net ┃ 🇷🇺 Россия t.me/rjsxrd",
-      "protocol": "vless",
-      "status": "ok",
-      "tcp_ms": 171.3
-    },
-    {
-      "name": "AetrisVPN White list ┃ ✅ SNI: randomquaint.net ┃ 🇷🇺 Россия t.me/rjsxrd",
-      "protocol": "vless",
-      "status": "ok",
-      "tcp_ms": 164.1
-    },
-    {
-      "name": "AetrisVPN White list ┃ ✅ SNI: randomquaint.net ┃ 🇷🇺 Россия t.me/rjsxrd",
-      "protocol": "vless",
-      "status": "ok",
-      "tcp_ms": 178.1
-    },
-    {
-      "name": "AetrisVPN White list ┃ ✅ SNI: ads.x5.ru ┃ 🇧🇾 Беларусь t.me/rjsxrd",
-      "protocol": "vless",
-      "status": "ok",
-      "tcp_ms": 157.0
-    },
-    {
-      "name": "AetrisVPN White list ┃ ✅ SNI: fitindoor.net ┃ 🇷🇺 Россия t.me/rjsxrd",
-      "protocol": "vless",
-      "status": "ok",
-      "tcp_ms": 171.4
-    },
-    {
-      "name": "AetrisVPN White list ┃ ✅ SNI: fitindoor.net ┃ 🇷🇺 Россия t.me/rjsxrd",
-      "protocol": "vless",
-      "status": "ok",
-      "tcp_ms": 172.8
-    },
-    {
-      "name": "AetrisVPN White list ┃ ✅ SNI: fitindoor.net ┃ 🇧🇬 Болгария t.me/rjsxrd",
-      "protocol": "vless",
-      "status": "ok",
-      "tcp_ms": 171.5
-    },
-    {
-      "name": "AetrisVPN White list ┃ ✅ SNI: fitindoor.net ┃ 🇷🇺 Россия t.me/rjsxrd",
-      "protocol": "vless",
-      "status": "ok",
-      "tcp_ms": 181.0
-    },
-    {
-      "name": "AetrisVPN White list ┃ ✅ SNI: fitindoor.net ┃ 🇷🇺 Россия t.me/rjsxrd",
-      "protocol": "vless",
-      "status": "ok",
-      "tcp_ms": 165.7
-    },
-    {
-      "name": "AetrisVPN White list ┃ ✅ SNI: fitindoor.net ┃ 🇷🇺 Россия t.me/rjsxrd",
-      "protocol": "vless",
-      "status": "ok",
-      "tcp_ms": 164.9
-    },
-    {
-      "name": "AetrisVPN White list ┃ ✅ SNI: fitindoor.net ┃ 🇷🇺 Россия t.me/rjsxrd",
-      "protocol": "vless",
-      "status": "ok",
-      "tcp_ms": 164.7
-    },
-    {
-      "name": "AetrisVPN White list ┃ ✅ SNI: fitindoor.net ┃ 🇷🇺 Россия t.me/rjsxrd",
-      "protocol": "vless",
-      "status": "ok",
-      "tcp_ms": 165.4
-    },
-    {
-      "name": "AetrisVPN White list ┃ ✅ SNI: randomquaint.net ┃ 🇷🇺 Россия t.me/rjsxrd",
-      "protocol": "vless",
-      "status": "ok",
-      "tcp_ms": 164.4
-    },
-    {
-      "name": "AetrisVPN White list ┃ ✅ SNI: randomquaint.net ┃ 🇷🇺 Россия t.me/rjsxrd",
-      "protocol": "vless",
-      "status": "ok",
-      "tcp_ms": 172.6
-    },
-    {
-      "name": "AetrisVPN White list ┃ ✅ SNI: randomquaint.net ┃ 🇷🇺 Россия t.me/rjsxrd",
-      "protocol": "vless",
-      "status": "ok",
-      "tcp_ms": 163.4
-    },
-    {
-      "name": "AetrisVPN White list ┃ ✅ SNI: fitindoor.net ┃ 🇷🇺 Россия t.me/rjsxrd",
-      "protocol": "vless",
-      "status": "ok",
-      "tcp_ms": 174.2
-    },
-    {
-      "name": "AetrisVPN White list ┃ ✅ SNI: fitindoor.net ┃ 🇷🇺 Россия t.me/rjsxrd",
-      "protocol": "vless",
-      "status": "ok",
-      "tcp_ms": 164.4
-    },
-    {
-      "name": "AetrisVPN White list ┃ ✅ SNI: fitindoor.net ┃ 🇷🇺 Россия t.me/rjsxrd",
-      "protocol": "vless",
-      "status": "ok",
-      "tcp_ms": 164.3
-    },
-    {
-      "name": "AetrisVPN White list ┃ ✅ SNI: fitindoor.net ┃ 🇷🇺 Россия t.me/rjsxrd",
-      "protocol": "vless",
-      "status": "ok",
-      "tcp_ms": 164.2
-    },
-    {
-      "name": "AetrisVPN White list ┃ ✅ SNI: fitindoor.net ┃ 🇷🇺 Россия t.me/rjsxrd",
-      "protocol": "vless",
-      "status": "ok",
-      "tcp_ms": 164.3
-    },
-    {
-      "name": "AetrisVPN White list ┃ ✅ SNI: fitindoor.net ┃ 🇷🇺 Россия t.me/rjsxrd",
-      "protocol": "vless",
-      "status": "ok",
-      "tcp_ms": 165.9
-    },
-    {
-      "name": "AetrisVPN White list ┃ ✅ SNI: fitindoor.net ┃ 🇷🇺 Россия t.me/rjsxrd",
-      "protocol": "vless",
-      "status": "ok",
-      "tcp_ms": 164.5
-    },
-    {
-      "name": "AetrisVPN White list ┃ ✅ SNI: randomquaint.net ┃ 🇷🇺 Россия t.me/rjsxrd",
-      "protocol": "vless",
-      "status": "ok",
-      "tcp_ms": 164.5
-    },
-    {
-      "name": "AetrisVPN White list ┃ ✅ SNI: www.apple.com ┃ 🇵🇱 Польша t.me/rjsxrd",
-      "protocol": "vless",
-      "status": "ok",
-      "tcp_ms": 205.0
-    },
-    {
-      "name": "AetrisVPN White list ┃ ✅ SNI: randomquaint.net ┃ 🇧🇬 Болгария t.me/rjsxrd",
-      "protocol": "vless",
-      "status": "ok",
-      "tcp_ms": 165.7
-    },
-    {
-      "name": "AetrisVPN White list ┃ ✅ SNI: fitindoor.net ┃ 🇷🇺 Россия t.me/rjsxrd",
-      "protocol": "vless",
-      "status": "ok",
-      "tcp_ms": 173.4
-    },
-    {
-      "name": "AetrisVPN White list ┃ ✅ SNI: randomquaint.net ┃ 🇷🇺 Россия t.me/rjsxrd",
-      "protocol": "vless",
-      "status": "ok",
-      "tcp_ms": 164.1
-    },
-    {
-      "name": "AetrisVPN White list ┃ ✅ SNI: fitindoor.net ┃ 🇷🇺 Россия t.me/rjsxrd",
-      "protocol": "vless",
-      "status": "ok",
-      "tcp_ms": 163.0
-    },
-    {
-      "name": "AetrisVPN White list ┃ ✅ SNI: fitindoor.net ┃ 🇷🇺 Россия t.me/rjsxrd",
-      "protocol": "vless",
-      "status": "ok",
-      "tcp_ms": 164.3
-    },
-    {
-      "name": "AetrisVPN White list ┃ ✅ SNI: randomquaint.net ┃ 🇷🇺 Россия t.me/rjsxrd",
-      "protocol": "vless",
-      "status": "ok",
-      "tcp_ms": 166.1
-    },
-    {
-      "name": "AetrisVPN White list ┃ ✅ SNI: fitindoor.net ┃ 🇷🇺 Россия t.me/rjsxrd",
-      "protocol": "vless",
-      "status": "ok",
-      "tcp_ms": 164.9
-    },
-    {
-      "name": "AetrisVPN White list ┃ ✅ SNI: randomquaint.net ┃ 🇷🇺 Россия t.me/rjsxrd",
-      "protocol": "vless",
-      "status": "ok",
-      "tcp_ms": 172.9
-    },
-    {
-      "name": "AetrisVPN White list ┃ ✅ SNI: www.apple.com ┃ 🇨🇭 Швейцария t.me/rjsxrd",
-      "protocol": "vless",
-      "status": "ok",
-      "tcp_ms": 179.5
-    },
-    {
-      "name": "AetrisVPN White list ┃ ✅ SNI: randomquaint.net ┃ 🇧🇬 Болгария t.me/rjsxrd",
-      "protocol": "vless",
-      "status": "ok",
-      "tcp_ms": 164.4
-    },
-    {
-      "name": "AetrisVPN White list ┃ ✅ SNI: www.apple.com ┃ 🇵🇱 Польша t.me/rjsxrd",
-      "protocol": "vless",
-      "status": "ok",
-      "tcp_ms": 210.5
+      "tcp_ms": 121.0
     },
     {
       "name": "AetrisVPN White list ┃ ✅ SNI: metrika.yandex.ru ┃ 🇩🇪 Германия t.me/rjsxrd",
       "protocol": "vless",
       "status": "ok",
-      "tcp_ms": 1298.4
+      "tcp_ms": 272.7
+    },
+    {
+      "name": "AetrisVPN White list ┃ ✅ SNI: metrika.yandex.ru ┃ 🇪🇸 Испания t.me/rjsxrd",
+      "protocol": "vless",
+      "status": "ok",
+      "tcp_ms": 93.1
+    },
+    {
+      "name": "AetrisVPN White list ┃ ✅ SNI: metrika.yandex.ru ┃ 🇩🇪 Германия t.me/rjsxrd",
+      "protocol": "vless",
+      "status": "ok",
+      "tcp_ms": 264.7
     }
   ]
 }
