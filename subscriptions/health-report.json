@@ -1,152 +1,104 @@
 {
-  "checked_at_utc": "2026-10-31T12:27:45+00:00",
+  "checked_at_utc": "2026-10-31T17:43:17+00:00",
   "source": "https://raw.githubusercontent.com/whoahaow/rjsxrd/main/githubmirror/bypass/bypass-all.txt",
   "probe": "TCP connect",
-  "upstream_links": 598,
-  "ok": 23,
+  "upstream_links": 959,
+  "ok": 15,
   "failed": 0,
   "unsupported": 0,
   "unsafe": 0,
-  "input": 23,
-  "published": 23,
+  "input": 15,
+  "published": 15,
   "entries": [
     {
-      "name": "AetrisVPN White list ┃ ✅ SNI: thumbs.mycdn-io.ru ┃ 🇷🇺 Россия t.me/rjsxrd",
-      "protocol": "vless",
-      "status": "ok",
-      "tcp_ms": 166.5
-    },
-    {
-      "name": "AetrisVPN White list ┃ ✅ SNI: sundaylanzgem.site ┃ 🇩🇪 Германия t.me/rjsxrd",
-      "protocol": "vless",
-      "status": "ok",
-      "tcp_ms": 142.1
-    },
-    {
-      "name": "AetrisVPN White list ┃ ✅ SNI: vedomosti.ru ┃ 🇬🇧 Великобритания t.me/rjsxrd",
-      "protocol": "vless",
-      "status": "ok",
-      "tcp_ms": 132.3
-    },
-    {
-      "name": "AetrisVPN White list ┃ ✅ SNI: max.ru ┃ 🇩🇪 Германия t.me/rjsxrd",
-      "protocol": "vless",
-      "status": "ok",
-      "tcp_ms": 174.0
-    },
-    {
-      "name": "AetrisVPN White list ┃ ✅ SNI: www.kinopoisk.ru ┃ 🇩🇪 Германия t.me/rjsxrd",
-      "protocol": "vless",
-      "status": "ok",
-      "tcp_ms": 172.2
-    },
-    {
-      "name": "AetrisVPN White list ┃ ✅ SNI: max.ru ┃ 🇩🇪 Германия t.me/rjsxrd",
-      "protocol": "vless",
-      "status": "ok",
-      "tcp_ms": 173.6
-    },
-    {
-      "name": "AetrisVPN White list ┃ ✅ SNI: de7-site.kartamira.cc ┃ 🇩🇪 Германия t.me/rjsxrd",
-      "protocol": "vless",
-      "status": "ok",
-      "tcp_ms": 168.8
-    },
-    {
       "name": "AetrisVPN White list ┃ ✅ SNI: yandex.ru ┃ 🇷🇺 Россия t.me/rjsxrd",
       "protocol": "vless",
       "status": "ok",
-      "tcp_ms": 168.5
-    },
-    {
-      "name": "AetrisVPN White list ┃ ✅ SNI: yandex.ru ┃ 🇩🇪 Германия t.me/rjsxrd",
-      "protocol": "vless",
-      "status": "ok",
-      "tcp_ms": 172.4
-    },
-    {
-      "name": "AetrisVPN White list ┃ ✅ SNI: yandex.ru ┃ 🇷🇺 Россия t.me/rjsxrd",
-      "protocol": "vless",
-      "status": "ok",
-      "tcp_ms": 168.1
-    },
-    {
-      "name": "AetrisVPN White list ┃ ✅ SNI: www.kinopoisk.ru ┃ 🇩🇪 Германия t.me/rjsxrd",
-      "protocol": "vless",
-      "status": "ok",
-      "tcp_ms": 179.2
-    },
-    {
-      "name": "AetrisVPN White list ┃ ✅ SNI: yandex.ru ┃ 🇩🇪 Германия t.me/rjsxrd",
-      "protocol": "vless",
-      "status": "ok",
-      "tcp_ms": 171.1
-    },
-    {
-      "name": "AetrisVPN White list ┃ ✅ SNI: yandex.ru ┃ 🇩🇪 Германия t.me/rjsxrd",
-      "protocol": "vless",
-      "status": "ok",
-      "tcp_ms": 180.1
+      "tcp_ms": 166.0
     },
     {
       "name": "AetrisVPN White list ┃ ✅ SNI: yandex.ru ┃ 🇱🇻 Латвия t.me/rjsxrd",
       "protocol": "vless",
       "status": "ok",
-      "tcp_ms": 165.7
+      "tcp_ms": 166.6
     },
     {
       "name": "AetrisVPN White list ┃ ✅ SNI: yandex.ru ┃ 🇷🇺 Россия t.me/rjsxrd",
       "protocol": "vless",
       "status": "ok",
-      "tcp_ms": 171.6
+      "tcp_ms": 171.8
+    },
+    {
+      "name": "AetrisVPN White list ┃ ✅ SNI: www.kinopoisk.ru ┃ 🇩🇪 Германия t.me/rjsxrd",
+      "protocol": "vless",
+      "status": "ok",
+      "tcp_ms": 190.5
+    },
+    {
+      "name": "AetrisVPN White list ┃ ✅ SNI: yandex.ru ┃ 🇩🇪 Германия t.me/rjsxrd",
+      "protocol": "vless",
+      "status": "ok",
+      "tcp_ms": 159.4
+    },
+    {
+      "name": "AetrisVPN White list ┃ ✅ SNI: www.kinopoisk.ru ┃ 🇩🇪 Германия t.me/rjsxrd",
+      "protocol": "vless",
+      "status": "ok",
+      "tcp_ms": 182.8
+    },
+    {
+      "name": "AetrisVPN White list ┃ ✅ SNI: yandex.ru ┃ 🇩🇪 Германия t.me/rjsxrd",
+      "protocol": "vless",
+      "status": "ok",
+      "tcp_ms": 173.5
+    },
+    {
+      "name": "AetrisVPN White list ┃ ✅ SNI: yandex.ru ┃ 🇩🇪 Германия t.me/rjsxrd",
+      "protocol": "vless",
+      "status": "ok",
+      "tcp_ms": 165.4
     },
     {
       "name": "AetrisVPN White list ┃ ✅ SNI: yandex.ru ┃ 🇷🇺 Россия t.me/rjsxrd",
       "protocol": "vless",
       "status": "ok",
-      "tcp_ms": 178.7
+      "tcp_ms": 163.1
+    },
+    {
+      "name": "AetrisVPN White list ┃ ✅ SNI: max.ru ┃ 🇩🇪 Германия t.me/rjsxrd",
+      "protocol": "vless",
+      "status": "ok",
+      "tcp_ms": 173.5
+    },
+    {
+      "name": "AetrisVPN White list ┃ ✅ SNI: yandex.ru ┃ 🇷🇺 Россия t.me/rjsxrd",
+      "protocol": "vless",
+      "status": "ok",
+      "tcp_ms": 171.7
     },
     {
       "name": "AetrisVPN White list ┃ ✅ SNI: sundaylanzgem.site ┃ 🇩🇪 Германия t.me/rjsxrd",
       "protocol": "vless",
       "status": "ok",
-      "tcp_ms": 138.7
+      "tcp_ms": 134.6
     },
     {
-      "name": "AetrisVPN White list ┃ ✅ SNI: cdn.tbank.ru ┃ 🇩🇪 Германия t.me/rjsxrd",
+      "name": "AetrisVPN White list ┃ ✅ SNI: www.apple.com ┃ 🇳🇱 Нидерланды t.me/rjsxrd",
       "protocol": "vless",
       "status": "ok",
-      "tcp_ms": 342.5
+      "tcp_ms": 126.4
     },
     {
-      "name": "AetrisVPN White list ┃ ✅ SNI: www.kinopoisk.ru ┃ 🇩🇪 Германия t.me/rjsxrd",
+      "name": "AetrisVPN White list ┃ ✅ SNI: ads.x5.ru ┃ 🇧🇾 Беларусь t.me/rjsxrd",
       "protocol": "vless",
       "status": "ok",
-      "tcp_ms": 165.9
+      "tcp_ms": 157.8
     },
     {
-      "name": "AetrisVPN White list ┃ ✅ SNI: www.kinopoisk.ru ┃ 🇩🇪 Германия t.me/rjsxrd",
+      "name": "AetrisVPN White list ┃ ✅ SNI: sundaylanzgem.site ┃ 🇩🇪 Германия t.me/rjsxrd",
       "protocol": "vless",
       "status": "ok",
-      "tcp_ms": 169.3
-    },
-    {
-      "name": "AetrisVPN White list ┃ ✅ SNI: cdn.tbank.ru ┃ 🇩🇪 Германия t.me/rjsxrd",
-      "protocol": "vless",
-      "status": "ok",
-      "tcp_ms": 1306.6
-    },
-    {
-      "name": "AetrisVPN White list ┃ ✅ SNI: www.kinopoisk.ru ┃ 🇩🇪 Германия t.me/rjsxrd",
-      "protocol": "vless",
-      "status": "ok",
-      "tcp_ms": 164.7
-    },
-    {
-      "name": "AetrisVPN White list ┃ ✅ SNI: cdn.tbank.ru ┃ 🇩🇪 Германия t.me/rjsxrd",
-      "protocol": "vless",
-      "status": "ok",
-      "tcp_ms": 340.7
+      "tcp_ms": 129.1
     }
   ]
 }
