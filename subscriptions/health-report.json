@@ -1,212 +1,86 @@
 {
-  "checked_at_utc": "2026-11-08T07:18:40+00:00",
+  "checked_at_utc": "2026-11-08T15:11:03+00:00",
   "source": "https://raw.githubusercontent.com/whoahaow/rjsxrd/main/githubmirror/bypass/bypass-all.txt",
   "probe": "TCP connect",
-  "upstream_links": 520,
-  "ok": 33,
+  "upstream_links": 388,
+  "ok": 12,
   "failed": 0,
   "unsupported": 0,
   "unsafe": 0,
-  "input": 33,
-  "published": 33,
+  "input": 12,
+  "published": 12,
   "entries": [
     {
-      "name": "AetrisVPN White list ┃ ✅ SNI: app.betust.net ┃ 🇳🇱 Нидерланды t.me/rjsxrd",
+      "name": "AetrisVPN White list ┃ ✅ SNI: thumbs.mycdn-io.ru ┃ 🇷🇺 Россия t.me/rjsxrd",
       "protocol": "vless",
       "status": "ok",
-      "tcp_ms": 115.0
+      "tcp_ms": 161.2
     },
     {
-      "name": "AetrisVPN White list ┃ ✅ SNI: app.betust.net ┃ 🇳🇱 Нидерланды t.me/rjsxrd",
+      "name": "AetrisVPN White list ┃ ✅ SNI: sundaylanzgem.site ┃ 🇨🇳 Китай t.me/rjsxrd",
       "protocol": "vless",
       "status": "ok",
-      "tcp_ms": 112.0
+      "tcp_ms": 125.4
     },
     {
-      "name": "AetrisVPN White list ┃ ✅ SNI: app.betust.net ┃ 🇳🇱 Нидерланды t.me/rjsxrd",
+      "name": "AetrisVPN White list ┃ ✅ SNI: sundaylanzgem.site ┃ 🇺🇸 США t.me/rjsxrd",
       "protocol": "vless",
       "status": "ok",
-      "tcp_ms": 113.4
-    },
-    {
-      "name": "AetrisVPN White list ┃ ✅ SNI: app.betust.net ┃ 🇳🇱 Нидерланды t.me/rjsxrd",
-      "protocol": "vless",
-      "status": "ok",
-      "tcp_ms": 108.0
-    },
-    {
-      "name": "AetrisVPN White list ┃ ✅ SNI: subscribe.goonars.com ┃ 🇦🇺 Австралия t.me/rjsxrd",
-      "protocol": "vless",
-      "status": "ok",
-      "tcp_ms": 15.9
-    },
-    {
-      "name": "AetrisVPN White list ┃ ✅ SNI: app.betust.net ┃ 🇳🇱 Нидерланды t.me/rjsxrd",
-      "protocol": "vless",
-      "status": "ok",
-      "tcp_ms": 114.7
-    },
-    {
-      "name": "AetrisVPN White list ┃ ✅ SNI: app.betust.net ┃ 🇺🇸 США t.me/rjsxrd",
-      "protocol": "vless",
-      "status": "ok",
-      "tcp_ms": 104.8
-    },
-    {
-      "name": "AetrisVPN White list ┃ ✅ SNI: app.betust.net ┃ 🇺🇸 США t.me/rjsxrd",
-      "protocol": "vless",
-      "status": "ok",
-      "tcp_ms": 110.9
+      "tcp_ms": 118.6
     },
     {
       "name": "AetrisVPN White list ┃ ✅ SNI: thumbs.mycdn-io.ru ┃ 🇷🇺 Россия t.me/rjsxrd",
       "protocol": "vless",
       "status": "ok",
-      "tcp_ms": 167.9
+      "tcp_ms": 164.1
     },
     {
-      "name": "AetrisVPN White list ┃ ✅ SNI: app.betust.net ┃ 🇳🇱 Нидерланды t.me/rjsxrd",
+      "name": "AetrisVPN White list ┃ ⚪ SNI: ru1.cdn-space.org ┃ 🇳🇱 Нидерланды t.me/rjsxrd",
       "protocol": "vless",
       "status": "ok",
-      "tcp_ms": 110.5
+      "tcp_ms": 171.5
     },
     {
-      "name": "AetrisVPN White list ┃ ✅ SNI: tickets.betust.net ┃ 🇺🇸 США t.me/rjsxrd",
+      "name": "AetrisVPN White list ┃ ✅ SNI: subscribe.goonars.com ┃ 🇺🇸 США t.me/rjsxrd",
       "protocol": "vless",
       "status": "ok",
-      "tcp_ms": 127.4
+      "tcp_ms": 14.8
     },
     {
-      "name": "AetrisVPN White list ┃ ✅ SNI: app.betust.net ┃ 🇳🇱 Нидерланды t.me/rjsxrd",
+      "name": "AetrisVPN White list ┃ ✅ SNI: thumbs.mycdn-io.ru ┃ 🇷🇺 Россия t.me/rjsxrd",
       "protocol": "vless",
       "status": "ok",
-      "tcp_ms": 115.0
-    },
-    {
-      "name": "AetrisVPN White list ┃ ✅ SNI: tickets.betust.net ┃ 🇺🇸 США t.me/rjsxrd",
-      "protocol": "vless",
-      "status": "ok",
-      "tcp_ms": 120.8
-    },
-    {
-      "name": "AetrisVPN White list ┃ ✅ SNI: modx-au.bachidze.com ┃ 🇩🇪 Германия t.me/rjsxrd",
-      "protocol": "vless",
-      "status": "ok",
-      "tcp_ms": 208.2
+      "tcp_ms": 169.7
     },
     {
       "name": "AetrisVPN White list ┃ ✅ SNI: subscribe.goonars.com ┃ 🇩🇪 Германия t.me/rjsxrd",
       "protocol": "vless",
       "status": "ok",
-      "tcp_ms": 14.9
+      "tcp_ms": 14.2
     },
     {
-      "name": "AetrisVPN White list ┃ ✅ SNI: passport.yandex.ru ┃ 🇪🇪 Эстония t.me/rjsxrd",
+      "name": "AetrisVPN White list ┃ ✅ SNI: thumbs.mycdn-io.ru ┃ 🇷🇺 Россия t.me/rjsxrd",
       "protocol": "vless",
       "status": "ok",
-      "tcp_ms": 155.4
-    },
-    {
-      "name": "AetrisVPN White list ┃ ✅ SNI: tickets.betust.net ┃ 🇺🇸 США t.me/rjsxrd",
-      "protocol": "vless",
-      "status": "ok",
-      "tcp_ms": 127.3
-    },
-    {
-      "name": "AetrisVPN White list ┃ ✅ SNI: subscribe.goonars.com ┃ 🇺🇸 США t.me/rjsxrd",
-      "protocol": "vless",
-      "status": "ok",
-      "tcp_ms": 11.7
-    },
-    {
-      "name": "AetrisVPN White list ┃ ✅ SNI: kz1.japancase.site ┃ 🇰🇿 Казахстан t.me/rjsxrd",
-      "protocol": "vless",
-      "status": "ok",
-      "tcp_ms": 242.4
-    },
-    {
-      "name": "AetrisVPN White list ┃ ✅ SNI: kz1.japancase.site ┃ 🇰🇿 Казахстан t.me/rjsxrd",
-      "protocol": "vless",
-      "status": "ok",
-      "tcp_ms": 246.4
-    },
-    {
-      "name": "AetrisVPN White list ┃ ✅ SNI: tickets.betust.net ┃ 🇺🇸 США t.me/rjsxrd",
-      "protocol": "vless",
-      "status": "ok",
-      "tcp_ms": 120.6
-    },
-    {
-      "name": "AetrisVPN White list ┃ ✅ SNI: subscribe.goonars.com ┃ 🇺🇸 США t.me/rjsxrd",
-      "protocol": "vless",
-      "status": "ok",
-      "tcp_ms": 14.3
-    },
-    {
-      "name": "AetrisVPN White list ┃ ✅ SNI: kz1.japancase.site ┃ 🇫🇷 Франция t.me/rjsxrd",
-      "protocol": "vless",
-      "status": "ok",
-      "tcp_ms": 239.5
+      "tcp_ms": 165.1
     },
     {
       "name": "AetrisVPN White list ┃ ✅ SNI: www.intel.com ┃ 🇸🇬 Сингапур t.me/rjsxrd",
       "protocol": "vless",
       "status": "ok",
-      "tcp_ms": 198.0
+      "tcp_ms": 259.5
     },
     {
-      "name": "AetrisVPN White list ┃ ✅ SNI: kz1.japancase.site ┃ 🇫🇷 Франция t.me/rjsxrd",
+      "name": "AetrisVPN White list ┃ ⚪ SNI: ea.com ┃ 🇩🇪 Германия t.me/rjsxrd",
       "protocol": "vless",
       "status": "ok",
-      "tcp_ms": 241.4
+      "tcp_ms": 164.8
     },
     {
-      "name": "AetrisVPN White list ┃ ✅ SNI: passport.yandex.ru ┃ 🇩🇪 Германия t.me/rjsxrd",
+      "name": "AetrisVPN White list ┃ ⚪ SNI: ea.com ┃ 🇩🇪 Германия t.me/rjsxrd",
       "protocol": "vless",
       "status": "ok",
-      "tcp_ms": 162.5
-    },
-    {
-      "name": "AetrisVPN White list ┃ ✅ SNI: kz1.japancase.site ┃ 🇰🇿 Казахстан t.me/rjsxrd",
-      "protocol": "vless",
-      "status": "ok",
-      "tcp_ms": 249.4
-    },
-    {
-      "name": "AetrisVPN White list ┃ ✅ SNI: modx-au.bachidze.com ┃ 🇳🇱 Нидерланды t.me/rjsxrd",
-      "protocol": "vless",
-      "status": "ok",
-      "tcp_ms": 129.4
-    },
-    {
-      "name": "AetrisVPN White list ┃ ✅ SNI: kz1.japancase.site ┃ 🇰🇿 Казахстан t.me/rjsxrd",
-      "protocol": "vless",
-      "status": "ok",
-      "tcp_ms": 255.3
-    },
-    {
-      "name": "AetrisVPN White list ┃ ✅ SNI: kz1.japancase.site ┃ 🇰🇿 Казахстан t.me/rjsxrd",
-      "protocol": "vless",
-      "status": "ok",
-      "tcp_ms": 238.4
-    },
-    {
-      "name": "AetrisVPN White list ┃ ✅ SNI: subscribe.goonars.com ┃ 🇺🇸 США t.me/rjsxrd",
-      "protocol": "vless",
-      "status": "ok",
-      "tcp_ms": 20.0
-    },
-    {
-      "name": "AetrisVPN White list ┃ ✅ SNI: modx-au.bachidze.com ┃ 🇳🇱 Нидерланды t.me/rjsxrd",
-      "protocol": "vless",
-      "status": "ok",
-      "tcp_ms": 159.0
-    },
-    {
-      "name": "AetrisVPN White list ┃ ✅ SNI: www.apple.com ┃ 🇨🇭 Швейцария t.me/rjsxrd",
-      "protocol": "vless",
-      "status": "ok",
-      "tcp_ms": 133.3
+      "tcp_ms": 162.1
     }
   ]
 }
