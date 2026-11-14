@@ -1,8 +1,8 @@
 {
-  "checked_at_utc": "2026-11-14T03:13:42+00:00",
+  "checked_at_utc": "2026-11-14T10:28:10+00:00",
   "source": "https://raw.githubusercontent.com/whoahaow/rjsxrd/main/githubmirror/bypass/bypass-all.txt",
   "probe": "TCP connect",
-  "upstream_links": 561,
+  "upstream_links": 318,
   "ok": 6,
   "failed": 0,
   "unsupported": 0,
@@ -14,37 +14,37 @@
       "name": "AetrisVPN White list ┃ ✅ SNI: windytrout.net ┃ 🇷🇺 Россия t.me/rjsxrd",
       "protocol": "vless",
       "status": "ok",
-      "tcp_ms": 129.4
+      "tcp_ms": 161.5
     },
     {
       "name": "AetrisVPN White list ┃ ✅ SNI: windytrout.net ┃ 🇷🇺 Россия t.me/rjsxrd",
       "protocol": "vless",
       "status": "ok",
-      "tcp_ms": 136.0
+      "tcp_ms": 151.8
     },
     {
       "name": "AetrisVPN White list ┃ ✅ SNI: tansy-wharf.cdn.cachefleet.com ┃ 🇺🇸 США t.me/rjsxrd",
       "protocol": "vless",
       "status": "ok",
-      "tcp_ms": 133.8
+      "tcp_ms": 146.4
     },
     {
       "name": "AetrisVPN White list ┃ ✅ SNI: windytrout.net ┃ 🇷🇺 Россия t.me/rjsxrd",
       "protocol": "vless",
       "status": "ok",
-      "tcp_ms": 129.3
+      "tcp_ms": 146.5
     },
     {
       "name": "AetrisVPN White list ┃ ✅ SNI: windytrout.net ┃ 🇷🇺 Россия t.me/rjsxrd",
       "protocol": "vless",
       "status": "ok",
-      "tcp_ms": 128.6
+      "tcp_ms": 159.1
     },
     {
-      "name": "AetrisVPN White list ┃ ✅ SNI: www.apple.com ┃ 🇬🇧 Великобритания t.me/rjsxrd",
+      "name": "AetrisVPN White list ┃ ✅ SNI: windytrout.net ┃ 🇷🇺 Россия t.me/rjsxrd",
       "protocol": "vless",
       "status": "ok",
-      "tcp_ms": 31.2
+      "tcp_ms": 157.2
     }
   ]
 }
